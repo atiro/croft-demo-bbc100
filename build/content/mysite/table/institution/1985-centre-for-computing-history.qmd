@@ -1,0 +1,9 @@
+---
+author: "Centre for Computing History"
+year: "1985"
+title: "Video Game Console"
+name: "BBC Bridge Companion"
+draft: false
+type: institution
+---
+I think this then appears as the content

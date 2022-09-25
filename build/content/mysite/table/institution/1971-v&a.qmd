@@ -1,0 +1,9 @@
+---
+author: "V&A"
+year: "1971"
+title: "Theatre Design"
+name: "Die Fledermaus"
+draft: false
+type: institution
+---
+I think this then appears as the content

@@ -1,0 +1,25 @@
+---
+title: "Handstamp"
+subtitle: "1922"
+description: "BBC printing stamp issued to the Willesden Wireless Company, British, 1922-1924.  During the first two years of its existence, the BBC, then the British Broadcasting Company before it was incorporated several years later, relied heavily on royalties earned from radio receivers and accessories made by its member manufacturing companies. Before each radio went into production a sample was sent to the Post Office to check that it didn't produce electrical interference. Approved sets were given their own General Post Office (GPO) registration number which had to be displayed on the set, along with a stamp with the words 'TYPE APPROVED BY THE POST MASTER GENERAL', as shown in this stamp. This particular kind of stamp was in use from November 1922 to September 1924."
+image: "https://zoom.sciencemuseumgroup.org.uk/iiif/2/46%2F847%2F1971_0574__0001_.ptif/full/300,/0/default.jpg"
+thumbnail: "https://zoom.sciencemuseumgroup.org.uk/iiif/2/46%2F847%2F1971_0574__0001_.ptif/full/200,/0/default.jpg"
+author: "Science Museum"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Handstamp
+### 1922
+BBC printing stamp issued to the Willesden Wireless Company, British, 1922-1924.  During the first two years of its existence, the BBC, then the British Broadcasting Company before it was incorporated several years later, relied heavily on royalties earned from radio receivers and accessories made by its member manufacturing companies. Before each radio went into production a sample was sent to the Post Office to check that it didn't produce electrical interference. Approved sets were given their own General Post Office (GPO) registration number which had to be displayed on the set, along with a stamp with the words 'TYPE APPROVED BY THE POST MASTER GENERAL', as shown in this stamp. This particular kind of stamp was in use from November 1922 to September 1924.
+
+::: {.column-margin}
+<img src="https://zoom.sciencemuseumgroup.org.uk/iiif/2/46%2F847%2F1971_0574__0001_.ptif/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://collection.sciencemuseumgroup.org.uk/objects/co35463/bbc-printing-stamp-handstamp"/>Handstamp</a> (Science Museum)

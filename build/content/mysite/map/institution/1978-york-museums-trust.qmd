@@ -1,0 +1,10 @@
+---
+title: "The Mayor Of Casterbridge"
+lat: "53.9620"
+lon: "-1.0895"
+author: York Museums Trust"
+description: "Book 'The Mayor Of Casterbridge' by Thomas Hardy. Pan Paperback Edition, 1978. Cover has photo of Alan Bates in the title role of the BBC TV series."
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

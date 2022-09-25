@@ -1,0 +1,23 @@
+---
+title: "Painting"
+subtitle: "2019"
+description: "Joos de Momper the Younger and workshop of Jan Brueghel the Elder"
+author: "Birmingham Museums"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Painting
+### 2019
+Joos de Momper the Younger and workshop of Jan Brueghel the Elder
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="Featured on the 2019 BBC Four tv programme 'Britain's Lost Masterpieces'"/>Painting</a> (Birmingham Museums)

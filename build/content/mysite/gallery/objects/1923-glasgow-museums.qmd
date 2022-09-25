@@ -1,0 +1,23 @@
+---
+title: "Crystal Set"
+subtitle: "1923"
+description: "Edison Bell Crystal Set - B type reg.615. Twin detector manufactured by Edison Bell Ltd. Original BBC transfer. All radio manufacturers were required to license the radio with the British Postmaster General and then it was assigned a PMG approved number."
+author: "Glasgow Museums"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Crystal Set
+### 1923
+Edison Bell Crystal Set - B type reg.615. Twin detector manufactured by Edison Bell Ltd. Original BBC transfer. All radio manufacturers were required to license the radio with the British Postmaster General and then it was assigned a PMG approved number.
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=138172;type=101"/>Crystal Set</a> (Glasgow Museums)

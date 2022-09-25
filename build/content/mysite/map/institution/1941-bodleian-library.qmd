@@ -1,0 +1,10 @@
+---
+title: "Technical glossary for B.B.C. engineers"
+lat: "51.7541"
+lon: "-1.2540"
+author: Bodleian Library"
+description: "https://solo.bodleian.ox.ac.uk/permalink/f/89vilt/oxfaleph013083806"
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

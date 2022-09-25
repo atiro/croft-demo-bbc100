@@ -1,0 +1,10 @@
+---
+title: "Edison Bell Crystal Set - B type reg.615"
+lat: "55.8686"
+lon: "-4.2906"
+author: Glasgow Museums"
+description: "Edison Bell Crystal Set - B type reg.615. Twin detector manufactured by Edison Bell Ltd. Original BBC transfer. All radio manufacturers were required to license the radio with the British Postmaster General and then it was assigned a PMG approved number."
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

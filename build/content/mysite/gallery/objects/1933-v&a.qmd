@@ -1,0 +1,25 @@
+---
+title: "Photograph"
+subtitle: "1933"
+description: "New BBC Building"
+image: "https://framemark.vam.ac.uk/collections/2019ME4098/full/300,/0/default.jpg"
+thumbnail: "https://framemark.vam.ac.uk/collections/2019ME4098/full/200,/0/default.jpg"
+author: "V&A"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Photograph
+### 1933
+New BBC Building
+
+::: {.column-margin}
+<img src="https://framemark.vam.ac.uk/collections/2019ME4098/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://collections.vam.ac.uk/item/O1435683/new-bbc-building-photograph-emil-otto-hopp%C3%A9/"/>Photograph</a> (V&A)

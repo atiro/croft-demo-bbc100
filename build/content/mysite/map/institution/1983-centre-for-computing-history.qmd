@@ -1,0 +1,10 @@
+---
+title: "BBC Buggy"
+lat: "52.2079"
+lon: "0.1490"
+author: Centre for Computing History"
+description: "The BBC Buggy was a computer controlled vehicle released by Economatics in 1983. Primarily designed as an educational tool, the two wheeled buggy came as a kit with its main body constructed from Fishertechnik parts. The kit also included two stepper motors to control movement, an interface to connect it to a BBC Micro and a cassette with 13 programs"
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

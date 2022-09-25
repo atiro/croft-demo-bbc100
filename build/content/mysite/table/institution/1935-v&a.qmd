@@ -1,0 +1,9 @@
+---
+author: "V&A"
+year: "1935"
+title: "Booklet"
+name: "An approach to art : a pictorial guide to twelve broadcast talks and discussions on the artist and his public"
+draft: false
+type: institution
+---
+I think this then appears as the content

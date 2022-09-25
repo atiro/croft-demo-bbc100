@@ -1,0 +1,10 @@
+---
+title: "Six Recitals of English Song"
+lat: "51.5176"
+lon: "-0.0968"
+author: Museum of London"
+description: "Leaflet promoting 'Six Recitals of English Song' at the Wigmore Hall, held as part of the Festival of Britain, 1951. These were part of the Season of Arts intended to celebrate Britain's continuing creative vitality and to demonstrrate London's place as a centre for the arts. These recitals of historical English songs were arranged by the BBC. Perrfomers included Benjamin Britten, John Ireland and Margaret Ritchie."
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

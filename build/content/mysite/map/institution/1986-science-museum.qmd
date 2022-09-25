@@ -1,0 +1,10 @@
+---
+title: " 'National' laserdisc, used as part of the BBC Domesday system "
+lat: "51.4972"
+lon: "-0.1767"
+author: Science Museum"
+description: "The BBC Domesday project was a partnership between Acorn Computers Ltd, Philips, Logica and the BBC to mark the 900th anniversary of the original Domesday book. This multimedia edition of the book was compiled between 1984 and 1986, and published in 1986. It included a survey of the United Kingdom, in which people, mostly school children, wrote about their daily lives. These accounts were linked with maps, coloured photos, statistics, videos, and 'virtual walks'. Over a million people participated in the project, including over 10,000 schools. It was the first ever participatory and community driven multimedia project. It was also a good example of the perils of media obsolescence - at the time, laser discs were the cutting edge of technology, but the Domesday interface required a BBC Master computer, costing around £5,000, meaning that the project was out of reach of many, and that only 1,000 were sold across the country. Today, both the BBC Master computer and laser discs have become rare, although a successful data retrieval project carried out by the National Archives in 2001 means that the data is now available online. "
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

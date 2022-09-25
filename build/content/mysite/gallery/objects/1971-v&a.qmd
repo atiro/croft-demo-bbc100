@@ -1,0 +1,25 @@
+---
+title: "Theatre Design"
+subtitle: "1971"
+description: "This design by Eileen Diss is for an English language version made for BBC television and shown on BBC1 on 26 December 1971."
+image: "https://framemark.vam.ac.uk/collections/2017KF6172/full/300,/0/default.jpg"
+thumbnail: "https://framemark.vam.ac.uk/collections/2017KF6172/full/200,/0/default.jpg"
+author: "V&A"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Theatre Design
+### 1971
+This design by Eileen Diss is for an English language version made for BBC television and shown on BBC1 on 26 December 1971.
+
+::: {.column-margin}
+<img src="https://framemark.vam.ac.uk/collections/2017KF6172/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://collections.vam.ac.uk/item/O1305273/die-fledermaus-theatre-design-diss-eileen/ "/>Theatre Design</a> (V&A)

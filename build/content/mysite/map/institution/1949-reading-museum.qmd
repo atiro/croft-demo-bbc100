@@ -1,0 +1,10 @@
+---
+title: "Workers' Playtime at Huntley and Palmers, Reading"
+lat: "51.4570"
+lon: "-0.9699"
+author: Reading Museum"
+description: "The BBC Home Service recorded their popular lunchtime radio variety programme 'Workers' Playtime' at Huntley and Palmers canteen on King's Road in Reading on the 26 October 1949. Felix Medelssohn and his Hawaiian Serenades performed. This photograph was published in the Berkshire Chronicle on 28 October 1949."
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

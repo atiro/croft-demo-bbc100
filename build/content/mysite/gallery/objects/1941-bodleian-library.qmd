@@ -1,0 +1,21 @@
+---
+title: "Book"
+subtitle: "1941"
+description: "https://solo.bodleian.ox.ac.uk/permalink/f/89vilt/oxfaleph013083806"
+author: "Bodleian Library"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Book
+### 1941
+https://solo.bodleian.ox.ac.uk/permalink/f/89vilt/oxfaleph013083806
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+

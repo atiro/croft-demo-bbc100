@@ -1,0 +1,9 @@
+---
+author: "Potteries Museum & Art Galleries"
+year: "1991"
+title: "Owl Jug & Cover"
+name: "Ozzy"
+draft: false
+type: institution
+---
+I think this then appears as the content

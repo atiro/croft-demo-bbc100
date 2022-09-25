@@ -1,0 +1,10 @@
+---
+title: "Performance as Broadcast sheets"
+lat: "50.8563"
+lon: "0.5711"
+author: Hastings Museum & Art Gallery"
+description: "Copies of BBC Performance as Broadcast sheets containing detailed list of programmes August 22nd 1932 - September 2nd 1935, includes list of programmes broadcast as 'television transmission by the Baird process'"
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

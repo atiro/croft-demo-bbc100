@@ -1,0 +1,10 @@
+---
+title: ""
+lat: "51.4811"
+lon: "-0.2794"
+author: National Archives"
+description: "Proposed revisions to the BBC's charter and licence in the light of the Television Act 1954 and the ITA licence"
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

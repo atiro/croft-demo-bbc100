@@ -1,0 +1,9 @@
+---
+author: "Polar Museum"
+year: "1930"
+title: "Gramophone Record"
+name: "Gettin' Sentimental / By the Sycamore Tree"
+draft: false
+type: institution
+---
+I think this then appears as the content

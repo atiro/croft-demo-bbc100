@@ -1,0 +1,23 @@
+---
+title: "Digital Content"
+subtitle: "2014"
+description: ""
+author: "British Library"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Digital Content
+### 2014
+
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="http://explore.bl.uk/BLVU1:LSCOP-ALL:BLL01019604290"/>Digital Content</a> (British Library)

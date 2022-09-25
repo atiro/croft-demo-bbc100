@@ -1,0 +1,23 @@
+---
+title: "Photograph"
+subtitle: "1957"
+description: "Errol John (1924-1988), Playwright and actor"
+author: "NPG"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Photograph
+### 1957
+Errol John (1924-1988), Playwright and actor
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://www.npg.org.uk/collections/search/portrait/mw262526/Errol-John"/>Photograph</a> (NPG)

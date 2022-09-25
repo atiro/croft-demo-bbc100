@@ -1,0 +1,9 @@
+---
+author: "Tyne & Wear Archives & Museums"
+year: "1968"
+title: "Letter"
+name: ""
+draft: false
+type: institution
+---
+I think this then appears as the content

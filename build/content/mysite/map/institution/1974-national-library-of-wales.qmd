@@ -1,0 +1,10 @@
+---
+title: "BBC pronunciation policy and practice"
+lat: "52.4146"
+lon: "-4.0685"
+author: National Library of Wales"
+description: "BBC pronunciation policy and practice / [British Broadcasting Corporation Pronunciation Unit]."
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

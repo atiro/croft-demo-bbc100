@@ -1,0 +1,23 @@
+---
+title: "Photograph"
+subtitle: "1979"
+description: "Black and white photograph of Angela Rippon with Phil Drabble, filming with BBC 2 at the Game Fair"
+author: "Museum of English Rural Life"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Photograph
+### 1979
+Black and white photograph of Angela Rippon with Phil Drabble, filming with BBC 2 at the Game Fair
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://rdg.ent.sirsidynix.net.uk/client/en_GB/merl/search/detailnonmodal/ent:$002f$002fUOR_ADLIB_ARC$002f0$002fUOR_ADLIB_ARC:110356406/ada?qu=bbc&qf=PUBDATE%09Publication+Date%091970-1979%091970-1979&d=ent%3A%2F%2FUOR_ADLIB_ARC%2F0%2FUOR_ADLIB_ARC%3A110356406%7EADLIB_ARC%7E11&lm=MERL2&isd=true"/>Photograph</a> (Museum of English Rural Life)

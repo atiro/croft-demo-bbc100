@@ -1,0 +1,23 @@
+---
+title: "Correspondence"
+subtitle: "1935"
+description: ""
+author: "Wellcome Collection"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Correspondence
+### 1935
+
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://wellcomecollection.org/works/d92vcunz"/>Correspondence</a> (Wellcome Collection)

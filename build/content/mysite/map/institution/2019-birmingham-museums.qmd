@@ -1,0 +1,10 @@
+---
+title: "Autumn"
+lat: "52.4801"
+lon: "-1.9035"
+author: Birmingham Museums"
+description: "Joos de Momper the Younger and workshop of Jan Brueghel the Elder"
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

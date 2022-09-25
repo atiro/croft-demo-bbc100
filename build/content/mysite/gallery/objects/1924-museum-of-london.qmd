@@ -1,0 +1,23 @@
+---
+title: "Cigarette card"
+subtitle: "1924"
+description: "This cigarette card was issued with free in packets of Sunripe Cigarettes. It was part of a series of the 'Wireless Telephony Broadcasting cards depicting popular BBC radio presenters and programmes. This, number 2 in the series, is a sepia photographic print of Uncle Rex Palmer before the microphone in the radio studio. On the reverse is printed information about this popular broadcaster who, as well as presenting children's hour, was also the Director of the BBC London Station."
+author: "Museum of London"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Cigarette card
+### 1924
+This cigarette card was issued with free in packets of Sunripe Cigarettes. It was part of a series of the 'Wireless Telephony Broadcasting cards depicting popular BBC radio presenters and programmes. This, number 2 in the series, is a sepia photographic print of Uncle Rex Palmer before the microphone in the radio studio. On the reverse is printed information about this popular broadcaster who, as well as presenting children's hour, was also the Director of the BBC London Station.
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://collections.museumoflondon.org.uk/online/object/727113.html"/>Cigarette card</a> (Museum of London)

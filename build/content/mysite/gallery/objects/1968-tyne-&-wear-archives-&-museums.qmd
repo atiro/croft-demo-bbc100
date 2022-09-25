@@ -1,0 +1,23 @@
+---
+title: "Letter"
+subtitle: "1968"
+description: "Typewritten letter addressed to Barbara Johnson from Biddy Baxter, Editor of BBC tv's 'Blue Peter'. The letter is dated February 1968 and congratulates Barbara on being a runner up in the Blue Peter Annual competition."
+author: "Tyne & Wear Archives & Museums"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Letter
+### 1968
+Typewritten letter addressed to Barbara Johnson from Biddy Baxter, Editor of BBC tv's 'Blue Peter'. The letter is dated February 1968 and congratulates Barbara on being a runner up in the Blue Peter Annual competition.
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://collectionssearchtwmuseums.org.uk/#details=ecatalogue.352575"/>Letter</a> (Tyne & Wear Archives & Museums)

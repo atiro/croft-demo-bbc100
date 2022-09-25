@@ -1,0 +1,9 @@
+---
+author: "Museum of London"
+year: "1924"
+title: "Cigarette card"
+name: "Wireless Telephony Broadcasting card"
+draft: false
+type: institution
+---
+I think this then appears as the content

@@ -1,0 +1,23 @@
+---
+title: "Supplement"
+subtitle: "1958"
+description: "Magazine supplement, 'BBC Television Keep Fit with Eileen Fowler and Look your Best for Christmas'. Supplement to 'Radio Times', 28 November 1958. From the Fenton household (Mr Billy Fenton, Mrs Marion Fenton, and their children Helen, Allison and Peter) at West Moor."
+author: "Tyne & Wear Archives & Museums"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Supplement
+### 1958
+Magazine supplement, 'BBC Television Keep Fit with Eileen Fowler and Look your Best for Christmas'. Supplement to 'Radio Times', 28 November 1958. From the Fenton household (Mr Billy Fenton, Mrs Marion Fenton, and their children Helen, Allison and Peter) at West Moor.
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://collectionssearchtwmuseums.org.uk/#details=ecatalogue.551454"/>Supplement</a> (Tyne & Wear Archives & Museums)

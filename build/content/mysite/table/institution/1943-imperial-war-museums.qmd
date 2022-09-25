@@ -1,0 +1,9 @@
+---
+author: "Imperial War Museums"
+year: "1943"
+title: "Watercolour"
+name: "An Underground Room in the BBC Building"
+draft: false
+type: institution
+---
+I think this then appears as the content

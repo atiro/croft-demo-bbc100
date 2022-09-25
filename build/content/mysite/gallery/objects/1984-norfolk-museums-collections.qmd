@@ -1,0 +1,23 @@
+---
+title: "Banner"
+subtitle: "1984"
+description: "Banner; replica of Mulbarton District banner of the National Agricultural Labourers and Rural Workers Union; green linen with black braid edging and bottom fringe; painted panels with plough, rural scenes and lettering; wooden baton at top with five cloth attachments; commissioned by the BBC for use in a drama/documentary about the Burston Strike School filmed in Norfolk in September/October 1984; banner made in 1984 by John and Tricia Thompson; original was made 1910 - 1920 and used in 1923 during Farmworkers' Strike (photograph of banner being carried at Wicklewood GRSRM : 1982.30.10); original now in People's History Museum, Manchester."
+author: "Norfolk Museums Collections"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Banner
+### 1984
+Banner; replica of Mulbarton District banner of the National Agricultural Labourers and Rural Workers Union; green linen with black braid edging and bottom fringe; painted panels with plough, rural scenes and lettering; wooden baton at top with five cloth attachments; commissioned by the BBC for use in a drama/documentary about the Burston Strike School filmed in Norfolk in September/October 1984; banner made in 1984 by John and Tricia Thompson; original was made 1910 - 1920 and used in 1923 during Farmworkers' Strike (photograph of banner being carried at Wicklewood GRSRM : 1982.30.10); original now in People's History Museum, Manchester.
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://www.museums.norfolk.gov.uk/collections/collections-object-page?id=GRSRM+%3a+1984.41.2"/>Banner</a> (Norfolk Museums Collections)

@@ -1,0 +1,9 @@
+---
+author: "York Museums Trust"
+year: "1978"
+title: "Book"
+name: "The Mayor Of Casterbridge"
+draft: false
+type: institution
+---
+I think this then appears as the content

@@ -1,0 +1,10 @@
+---
+title: "Air Battle: Two Hurricanes Versus Two Messerschmitts"
+lat: "51.4958"
+lon: "-0.1087"
+author: Imperial War Museums"
+description: "New Zealand officer served as pilot with 73 Sqdn, No 67 Wing, Advanced Air Striking Force, RAF account of aerial battle with German fighters, France, 3/1940"
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

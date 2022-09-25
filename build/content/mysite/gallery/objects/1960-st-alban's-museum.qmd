@@ -1,0 +1,23 @@
+---
+title: "Leaflet"
+subtitle: "1960"
+description: "Leaflet advertising the BBC childrens Television ' Sketch Club' exhibition at the City Museum, St Albans 1st August- 27th August 1960 July 1960 From Elsie Toms mayoral year diary vol 1 1960 "
+author: "St Alban's Museum"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Leaflet
+### 1960
+Leaflet advertising the BBC childrens Television ' Sketch Club' exhibition at the City Museum, St Albans 1st August- 27th August 1960 July 1960 From Elsie Toms mayoral year diary vol 1 1960 
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://collections.stalbansmuseums.org.uk/objects/47990"/>Leaflet</a> (St Alban's Museum)

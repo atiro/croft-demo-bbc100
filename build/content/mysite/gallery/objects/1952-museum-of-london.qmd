@@ -1,0 +1,23 @@
+---
+title: "Watercolour and Pencil Drawing"
+subtitle: "1952"
+description: "Pedestrians and vehicles are depicted at the junction of upper Regent Street and Mortimer Street. The pavement is crowded with shoppers. All Soul's Church and Broadcasting House, the London headquarters of the BBC, dominate the background in Portland Place.The end of rationing enabled ' the rag trade' centred on Mortimer Street to manufacture cheap, bright clothes for young office and shop workers. After three years at Richmond School of Art where she won a London County Council scholarship, Phyllis Ginger ( 1907-2005) attended the Central School of Arts and Crafts. She later contributed watercolours and drawings to 'Recording Britain', an ambitious Second World War project intended to employ artists on the home front and celebrate the country's architectural history. In 1952 Ginger was elected to the Royal Society of Painters in Watercolours, with which she exhibited until her death."
+author: "Museum of London"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Watercolour and Pencil Drawing
+### 1952
+Pedestrians and vehicles are depicted at the junction of upper Regent Street and Mortimer Street. The pavement is crowded with shoppers. All Soul's Church and Broadcasting House, the London headquarters of the BBC, dominate the background in Portland Place.The end of rationing enabled ' the rag trade' centred on Mortimer Street to manufacture cheap, bright clothes for young office and shop workers. After three years at Richmond School of Art where she won a London County Council scholarship, Phyllis Ginger ( 1907-2005) attended the Central School of Arts and Crafts. She later contributed watercolours and drawings to 'Recording Britain', an ambitious Second World War project intended to employ artists on the home front and celebrate the country's architectural history. In 1952 Ginger was elected to the Royal Society of Painters in Watercolours, with which she exhibited until her death.
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://collections.museumoflondon.org.uk/online/object/93419.html"/>Watercolour and Pencil Drawing</a> (Museum of London)

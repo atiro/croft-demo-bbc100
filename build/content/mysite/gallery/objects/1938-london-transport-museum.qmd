@@ -1,0 +1,23 @@
+---
+title: "Photograph"
+subtitle: "1938"
+description: "BBC exhibition at Charing Cross Underground Station."
+author: "London Transport Museum"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Photograph
+### 1938
+BBC exhibition at Charing Cross Underground Station.
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://www.ltmuseum.co.uk/collections/collections-online/photographs/item/1998-42577"/>Photograph</a> (London Transport Museum)

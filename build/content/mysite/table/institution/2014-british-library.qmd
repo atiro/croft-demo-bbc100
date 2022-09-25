@@ -1,0 +1,9 @@
+---
+author: "British Library"
+year: "2014"
+title: "Digital Content"
+name: "BBC Proms Guide 2014"
+draft: false
+type: institution
+---
+I think this then appears as the content

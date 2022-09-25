@@ -1,0 +1,9 @@
+---
+author: "Tate Modern"
+year: "1994"
+title: "Video, 4 monitors, colour and sound (stereo)"
+name: "Royal Ascot"
+draft: false
+type: institution
+---
+I think this then appears as the content

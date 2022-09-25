@@ -1,0 +1,23 @@
+---
+title: "Microphone"
+subtitle: "1990"
+description: "Presentation microphone, with an applied plate inscribed, 'PRESENTED TO THE ROYAL GREENWICH OBSERVATORY BY THE BBC IN RECOGNITION OF THE PROVISION OF THE GREENWICH TIME SIGNAL FROM 5TH FEBRUARY 1924 TO 5TH FEBRUARY 1990'. In 1990, when the Royal Greenwich Observatory moved from Herstmonceux Castle to Cambridge, responsibility for the timing of the six-pip time signal was transferred to the BBC. "
+author: "Royal Museums Greenwich"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Microphone
+### 1990
+Presentation microphone, with an applied plate inscribed, 'PRESENTED TO THE ROYAL GREENWICH OBSERVATORY BY THE BBC IN RECOGNITION OF THE PROVISION OF THE GREENWICH TIME SIGNAL FROM 5TH FEBRUARY 1924 TO 5TH FEBRUARY 1990'. In 1990, when the Royal Greenwich Observatory moved from Herstmonceux Castle to Cambridge, responsibility for the timing of the six-pip time signal was transferred to the BBC. 
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://www.rmg.co.uk/collections/objects/rmgc-object-203719"/>Microphone</a> (Royal Museums Greenwich)

@@ -1,0 +1,23 @@
+---
+title: "Drawing"
+subtitle: "2003"
+description: "Whistler's mother. A BBC Scotland's Artworks documentary 'Whistler's Maw' was broadcasted on 10 August 2003. It investigated the significance of Whistler's portrait of his mother and its enduring rolw as an inspiration for cartoonists and satirists. gerald Scarfe was featured in the programme, and made this drawing to camera"
+author: "Hunterian Museum"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Drawing
+### 2003
+Whistler's mother. A BBC Scotland's Artworks documentary 'Whistler's Maw' was broadcasted on 10 August 2003. It investigated the significance of Whistler's portrait of his mother and its enduring rolw as an inspiration for cartoonists and satirists. gerald Scarfe was featured in the programme, and made this drawing to camera
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="http://collections.gla.ac.uk/#/details/ecatalogue/227329"/>Drawing</a> (Hunterian Museum)

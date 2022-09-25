@@ -1,0 +1,10 @@
+---
+title: ""
+lat: "51.4769"
+lon: "0.0005"
+author: Royal Museums Greenwich"
+description: "Presentation microphone, with an applied plate inscribed, 'PRESENTED TO THE ROYAL GREENWICH OBSERVATORY BY THE BBC IN RECOGNITION OF THE PROVISION OF THE GREENWICH TIME SIGNAL FROM 5TH FEBRUARY 1924 TO 5TH FEBRUARY 1990'. In 1990, when the Royal Greenwich Observatory moved from Herstmonceux Castle to Cambridge, responsibility for the timing of the six-pip time signal was transferred to the BBC. "
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

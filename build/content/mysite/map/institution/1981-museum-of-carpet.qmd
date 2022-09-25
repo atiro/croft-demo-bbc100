@@ -1,0 +1,10 @@
+---
+title: "Oral History interview - Roger McGough at Brintons (Radio 4 Broadcast)"
+lat: "52.3848"
+lon: "-2.2455"
+author: Museum of Carpet"
+description: "Taped recording of a BBC Radio Four programme by Roger McGough, including interviews with Topham Brinton and workers"
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

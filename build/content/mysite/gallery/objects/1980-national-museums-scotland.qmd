@@ -1,0 +1,23 @@
+---
+title: "Computer"
+subtitle: "1980"
+description: "Computer / disc drive / mouse / manuals / software"
+author: "National Museums Scotland"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Computer
+### 1980
+Computer / disc drive / mouse / manuals / software
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="Acorn Computers Ltd"/>Computer</a> (National Museums Scotland)

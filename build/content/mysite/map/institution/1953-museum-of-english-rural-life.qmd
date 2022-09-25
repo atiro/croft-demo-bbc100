@@ -1,0 +1,10 @@
+---
+title: "Scrapbook of cuttings compiled by Romany Watt, (formerly Bain), daughter of G. Bramwell Evens"
+lat: "51.4491"
+lon: "-0.9597"
+author: Museum of English Rural Life"
+description: " The scrapbook contains assorted newspaper articles, magazine cuttings, letters, and drawings about Gypsies and their way of life, recieved by Robert Dawson in November 1997.  G Bramwell Evens was also known as 'Romany of the BBC'."
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

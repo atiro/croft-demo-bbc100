@@ -1,0 +1,23 @@
+---
+title: "Book"
+subtitle: "1974"
+description: "BBC pronunciation policy and practice / [British Broadcasting Corporation Pronunciation Unit]."
+author: "National Library of Wales"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Book
+### 1974
+BBC pronunciation policy and practice / [British Broadcasting Corporation Pronunciation Unit].
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://discover.library.wales/permalink/44WHELF_NLW/6kpfmq/alma9948729602419"/>Book</a> (National Library of Wales)

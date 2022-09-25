@@ -1,0 +1,23 @@
+---
+title: "Photograph"
+subtitle: "1945"
+description: "Adelaide Hall - 18 August 1945"
+author: "NPG"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Photograph
+### 1945
+Adelaide Hall - 18 August 1945
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://www.npg.org.uk/collections/search/portrait/mw122197/Adelaide-Hall"/>Photograph</a> (NPG)

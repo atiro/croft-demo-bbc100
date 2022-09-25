@@ -1,0 +1,9 @@
+---
+author: "Museum of Carpet"
+year: "1981"
+title: "Audio"
+name: "Oral History interview - Roger McGough at Brintons (Radio 4 Broadcast)"
+draft: false
+type: institution
+---
+I think this then appears as the content

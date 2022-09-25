@@ -1,0 +1,23 @@
+---
+title: "Photograph"
+subtitle: "1949"
+description: "The BBC studios, Ormeau Avenue. Drinking water fountain."
+author: "National Museums NI"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Photograph
+### 1949
+The BBC studios, Ormeau Avenue. Drinking water fountain.
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://www.nmni.com/collections/history/photographs/belfast-telegraph-collection/hoyfmbt754"/>Photograph</a> (National Museums NI)

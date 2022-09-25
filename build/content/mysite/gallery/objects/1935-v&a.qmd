@@ -1,0 +1,25 @@
+---
+title: "Booklet"
+subtitle: "1935"
+description: "An approach to art : a pictorial guide to twelve broadcast talks and discussions on the artist and his public"
+image: "https://framemark.vam.ac.uk/collections/2013GP2673/full/300,/0/default.jpg"
+thumbnail: "https://framemark.vam.ac.uk/collections/2013GP2673/full/200,/0/default.jpg"
+author: "V&A"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Booklet
+### 1935
+An approach to art : a pictorial guide to twelve broadcast talks and discussions on the artist and his public
+
+::: {.column-margin}
+<img src="https://framemark.vam.ac.uk/collections/2013GP2673/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="Eric Newton"/>Booklet</a> (V&A)

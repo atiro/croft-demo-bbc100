@@ -1,0 +1,10 @@
+---
+title: "Black and white photograph of Angela Rippon with Phil Drabble, filming with BBC 2 at the Game Fair"
+lat: "51.4491"
+lon: "-0.9597"
+author: Museum of English Rural Life"
+description: "Black and white photograph of Angela Rippon with Phil Drabble, filming with BBC 2 at the Game Fair"
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

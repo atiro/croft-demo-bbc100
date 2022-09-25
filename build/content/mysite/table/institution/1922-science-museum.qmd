@@ -1,0 +1,9 @@
+---
+author: "Science Museum"
+year: "1922"
+title: "Handstamp"
+name: "BBC Printing Stamp"
+draft: false
+type: institution
+---
+I think this then appears as the content

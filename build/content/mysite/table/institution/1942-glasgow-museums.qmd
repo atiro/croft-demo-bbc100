@@ -1,0 +1,9 @@
+---
+author: "Glasgow Museums"
+year: "1942"
+title: "Book"
+name: "The Kitchen Front"
+draft: false
+type: institution
+---
+I think this then appears as the content

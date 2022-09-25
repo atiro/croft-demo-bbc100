@@ -1,0 +1,23 @@
+---
+title: "Public Records"
+subtitle: "1955"
+description: "Proposed revisions to the BBC's charter and licence in the light of the Television Act 1954 and the ITA licence"
+author: "National Archives"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Public Records
+### 1955
+Proposed revisions to the BBC's charter and licence in the light of the Television Act 1954 and the ITA licence
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://discovery.nationalarchives.gov.uk/details/r/C410587"/>Public Records</a> (National Archives)

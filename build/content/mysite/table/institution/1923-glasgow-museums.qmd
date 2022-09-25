@@ -1,0 +1,9 @@
+---
+author: "Glasgow Museums"
+year: "1923"
+title: "Crystal Set"
+name: "Edison Bell Crystal Set - B type reg.615"
+draft: false
+type: institution
+---
+I think this then appears as the content

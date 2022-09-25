@@ -1,0 +1,25 @@
+---
+title: "Costume"
+subtitle: "1976"
+description: "I, Claudius is one of the BBC’s most enduring drama series. It premiered on BBC2 in 1976 and was based on Robert Graves’s I, Claudius and Claudius the God. It starred Derek Jacobi as Claudius and a supporting cast that included John Hurt, Siân Phillips, Patrick Stewart and Margaret Tyzack. The costumes were designed by Barbara Kronig and created by the BBC wardrobe department."
+image: "https://framemark.vam.ac.uk/collections/2015HV9422/full/300,/0/default.jpg"
+thumbnail: "https://framemark.vam.ac.uk/collections/2015HV9422/full/200,/0/default.jpg"
+author: "V&A"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Costume
+### 1976
+I, Claudius is one of the BBC’s most enduring drama series. It premiered on BBC2 in 1976 and was based on Robert Graves’s I, Claudius and Claudius the God. It starred Derek Jacobi as Claudius and a supporting cast that included John Hurt, Siân Phillips, Patrick Stewart and Margaret Tyzack. The costumes were designed by Barbara Kronig and created by the BBC wardrobe department.
+
+::: {.column-margin}
+<img src="https://framemark.vam.ac.uk/collections/2015HV9422/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://collections.vam.ac.uk/item/O1314732/i-claudius-costume-kronig-barbara/"/>Costume</a> (V&A)

@@ -1,0 +1,9 @@
+---
+author: "London Transport Museum"
+year: "1938"
+title: "Photograph"
+name: "BBC exhibition at Charing Cross Underground station, by Topical Press, 1938"
+draft: false
+type: institution
+---
+I think this then appears as the content

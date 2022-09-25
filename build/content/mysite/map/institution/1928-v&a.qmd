@@ -1,0 +1,10 @@
+---
+title: "Tales of Toytown"
+lat: "51.4966"
+lon: "-0.1722"
+author: V&A"
+description: "Sydney George Hulme Beaman (1887-1932) was the man who created Toytown, with its cast of characters including Larry the Lamb and Dennis the Dachshund. Tales of Toytown is the book which resulted in a hugely popular run on BBC Radio in the late 1920s and early 1930s as part of the Children's Hour series. This particular book is a 1928 first edition and is the copy annotated by Hulme Beaman himself as he set to work converting the book stories into short plays for the radio."
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

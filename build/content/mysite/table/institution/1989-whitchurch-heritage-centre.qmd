@@ -1,0 +1,9 @@
+---
+author: "Whitchurch Heritage Centre"
+year: "1989"
+title: "Notes"
+name: "BBC Songs of Praise at St John's Church 1989"
+draft: false
+type: institution
+---
+I think this then appears as the content

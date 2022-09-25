@@ -1,0 +1,9 @@
+---
+author: "Museum of English Rural Life"
+year: "1979"
+title: "Photograph"
+name: "Black and white photograph of Angela Rippon with Phil Drabble, filming with BBC 2 at the Game Fair"
+draft: false
+type: institution
+---
+I think this then appears as the content

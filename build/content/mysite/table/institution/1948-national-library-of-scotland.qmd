@@ -1,0 +1,9 @@
+---
+author: "National Library of Scotland"
+year: "1948"
+title: "Book"
+name: "Sound and fury : twenty-one years in the B.B.C"
+draft: false
+type: institution
+---
+I think this then appears as the content

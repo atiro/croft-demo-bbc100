@@ -1,0 +1,9 @@
+---
+author: "Hastings Museum & Art Gallery"
+year: "1932"
+title: "Document"
+name: "Performance as Broadcast sheets"
+draft: false
+type: institution
+---
+I think this then appears as the content

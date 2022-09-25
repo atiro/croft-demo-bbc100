@@ -1,0 +1,23 @@
+---
+title: "Concept"
+subtitle: "1973"
+description: "The BBC and ITV introduce Ceefax and Oracle – the world’s first teletext systems."
+author: "Museum of Communication"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Concept
+### 1973
+The BBC and ITV introduce Ceefax and Oracle – the world’s first teletext systems.
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://museumofcommunication.org.uk/television/"/>Concept</a> (Museum of Communication)

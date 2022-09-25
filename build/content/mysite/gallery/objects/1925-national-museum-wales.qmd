@@ -1,0 +1,23 @@
+---
+title: "Crystal set"
+subtitle: "1925"
+description: ""
+author: "National Museum Wales"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Crystal set
+### 1925
+
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href=""/>Crystal set</a> (National Museum Wales)

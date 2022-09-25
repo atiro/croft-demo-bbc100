@@ -1,0 +1,10 @@
+---
+title: "Die Fledermaus"
+lat: "51.4966"
+lon: "-0.1722"
+author: V&A"
+description: "This design by Eileen Diss is for an English language version made for BBC television and shown on BBC1 on 26 December 1971."
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

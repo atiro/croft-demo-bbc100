@@ -1,0 +1,9 @@
+---
+author: "Imperial War Museums"
+year: "1940"
+title: "Sound"
+name: "Air Battle: Two Hurricanes Versus Two Messerschmitts"
+draft: false
+type: institution
+---
+I think this then appears as the content

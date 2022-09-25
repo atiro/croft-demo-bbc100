@@ -1,0 +1,23 @@
+---
+title: "Video, 4 monitors, colour and sound (stereo)"
+subtitle: "1994"
+description: "Displayed on four monitors individually mounted on wheeled flight cases positioned side by side in the gallery, Royal Ascot 1994 is a four channel colour video showing members of the British royal family on processions at the famous race meeting referenced in the title. Each one of the monitors shows three minutes and forty-three seconds of unedited footage from the BBC’s televised coverage of Royal Ascot taken on successive days of the four-day event in 1994. The videos start at the same time on each screen and play simultaneously until they reach their end. Each day’s footage presents a succession of horse-drawn carriages that travels along the racecourse and into the paddock area, with the Queen, Prince Philip and other members of the royal family seen waving from the carriages to the surrounding crowds. At an almost identical point in each day’s procession, a military regiment plays the British national anthem. The BBC commentators praise the parades – with phrases such as ‘what a moment’, ‘wonderful scene’ and ‘a very relaxed atmosphere’ – and pay particularly close attention to the royal family’s clothing. Tate’s copy of Royal Ascot is number one in an edition of three plus one artist’s proof."
+author: "Tate Modern"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Video, 4 monitors, colour and sound (stereo)
+### 1994
+Displayed on four monitors individually mounted on wheeled flight cases positioned side by side in the gallery, Royal Ascot 1994 is a four channel colour video showing members of the British royal family on processions at the famous race meeting referenced in the title. Each one of the monitors shows three minutes and forty-three seconds of unedited footage from the BBC’s televised coverage of Royal Ascot taken on successive days of the four-day event in 1994. The videos start at the same time on each screen and play simultaneously until they reach their end. Each day’s footage presents a succession of horse-drawn carriages that travels along the racecourse and into the paddock area, with the Queen, Prince Philip and other members of the royal family seen waving from the carriages to the surrounding crowds. At an almost identical point in each day’s procession, a military regiment plays the British national anthem. The BBC commentators praise the parades – with phrases such as ‘what a moment’, ‘wonderful scene’ and ‘a very relaxed atmosphere’ – and pay particularly close attention to the royal family’s clothing. Tate’s copy of Royal Ascot is number one in an edition of three plus one artist’s proof.
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://www.tate.org.uk/art/artworks/wallinger-royal-ascot-t12810"/>Video, 4 monitors, colour and sound (stereo)</a> (Tate Modern)

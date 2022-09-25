@@ -1,0 +1,23 @@
+---
+title: "Sound"
+subtitle: "1940"
+description: "New Zealand officer served as pilot with 73 Sqdn, No 67 Wing, Advanced Air Striking Force, RAF account of aerial battle with German fighters, France, 3/1940"
+author: "Imperial War Museums"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Sound
+### 1940
+New Zealand officer served as pilot with 73 Sqdn, No 67 Wing, Advanced Air Striking Force, RAF account of aerial battle with German fighters, France, 3/1940
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://www.iwm.org.uk/collections/item/object/80022112"/>Sound</a> (Imperial War Museums)

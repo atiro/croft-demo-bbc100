@@ -1,0 +1,25 @@
+---
+title: "Theatre Costume"
+subtitle: "1970"
+description: "This costume was made for Prospect Theatre Company’s 1968 production of Richard II starring 29-year-old Ian McKellen as the King. Its five week tour was such a success that a second tour, starting at the Edinburgh Festival, was followed by a sell-out London run. It went on to tour Europe and was filmed by the BBC in 1970, establishing McKellen as a leading actor."
+image: "https://framemark.vam.ac.uk/collections/2006AG9444/full/300,/0/default.jpg"
+thumbnail: "https://framemark.vam.ac.uk/collections/2006AG9444/full/200,/0/default.jpg"
+author: "V&A"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Theatre Costume
+### 1970
+This costume was made for Prospect Theatre Company’s 1968 production of Richard II starring 29-year-old Ian McKellen as the King. Its five week tour was such a success that a second tour, starting at the Edinburgh Festival, was followed by a sell-out London run. It went on to tour Europe and was filmed by the BBC in 1970, establishing McKellen as a leading actor.
+
+::: {.column-margin}
+<img src="https://framemark.vam.ac.uk/collections/2006AG9444/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://collections.vam.ac.uk/item/O1262069/tabard-worn-by-ian-mckellen-theatre-costume-goodchild-tim/"/>Theatre Costume</a> (V&A)

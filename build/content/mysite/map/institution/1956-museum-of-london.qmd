@@ -1,0 +1,10 @@
+---
+title: "Construction workers erecting a TV mast at Crystal Palace"
+lat: "51.5176"
+lon: "-0.0968"
+author: Museum of London"
+description: "Construction workers erecting the TV transmission tower at Crystal Palace, 1956. The Transmitting Station was built in the mid 1950s to transmit BBC television on VHF but began transmitting both BBC and ITV channels when UHF was introduced in 1964. At 219 metres (719 ft), the tower was the tallest structure in London until No.1 Canada Square, Canary Wharf was built in 1991."
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

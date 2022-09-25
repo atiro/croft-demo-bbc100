@@ -1,0 +1,9 @@
+---
+author: "Tyne & Wear Archives & Museums"
+year: "1956"
+title: "Programme"
+name: "The Light Programme Music Festival 1956"
+draft: false
+type: institution
+---
+I think this then appears as the content

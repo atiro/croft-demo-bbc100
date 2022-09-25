@@ -1,0 +1,10 @@
+---
+title: ""
+lat: "51.4811"
+lon: "-0.2794"
+author: National Archives"
+description: "Complaint under Clause 21 of the BBC Licence and Agreement: Variety Artists Federation claim Billy Smart's New World Circus should pay a supplementary fee to Captain Decker's Sea Lion Act"
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

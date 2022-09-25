@@ -1,0 +1,9 @@
+---
+author: "Imperial War Museums"
+year: "1944"
+title: "Film"
+name: "A BBC Radio Broadcast from Normandy"
+draft: false
+type: institution
+---
+I think this then appears as the content

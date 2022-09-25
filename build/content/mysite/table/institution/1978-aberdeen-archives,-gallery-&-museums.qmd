@@ -1,0 +1,9 @@
+---
+author: "Aberdeen Archives, Gallery & Museums"
+year: "1978"
+title: "Leaflet"
+name: "BBC Radio from 23 November 1978"
+draft: false
+type: institution
+---
+I think this then appears as the content

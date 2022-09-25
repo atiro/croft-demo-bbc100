@@ -1,0 +1,9 @@
+---
+author: "National Archives"
+year: "1964"
+title: "Public Record"
+name: ""
+draft: false
+type: institution
+---
+I think this then appears as the content

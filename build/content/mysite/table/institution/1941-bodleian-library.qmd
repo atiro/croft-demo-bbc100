@@ -1,0 +1,9 @@
+---
+author: "Bodleian Library"
+year: "1941"
+title: "Book"
+name: "Technical glossary for B.B.C. engineers"
+draft: false
+type: institution
+---
+I think this then appears as the content

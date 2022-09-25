@@ -1,0 +1,10 @@
+---
+title: ""
+lat: "52.2028"
+lon: "0.1194"
+author: Whipple Museum of the History of Science"
+description: "c. 234 x radio valves, plus lightbulbs, valve holders, and related papers, by Mullard; Marconi; Cossor; Osram; Brimar; Ever Ready; Radiotron; US Army US Navy; Triad; BBC; Raytheon; Triotron; Sylvania; Tungsram; Ericsson; Pliotron; Westinghouse; Dario, 32 without makers name, early 20th century"
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

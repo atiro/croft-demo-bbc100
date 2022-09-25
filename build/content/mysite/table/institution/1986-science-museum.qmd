@@ -1,0 +1,9 @@
+---
+author: "Science Museum"
+year: "1986"
+title: "Laser Disc"
+name: " 'National' laserdisc, used as part of the BBC Domesday system "
+draft: false
+type: institution
+---
+I think this then appears as the content

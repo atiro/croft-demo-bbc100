@@ -1,0 +1,10 @@
+---
+title: "BBC televised operations from Electra House, London"
+lat: "50.0468"
+lon: "-5.6549"
+author: Porthcurno Museum of Global Communications"
+description: "One photographic negative and one black and white photograph of Mr Fred Goodman sending a message from London to Capetown during the BBC televised operations in the Instrument and Phototelegraph Rooms at Electra House, London"
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

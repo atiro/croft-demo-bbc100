@@ -1,0 +1,23 @@
+---
+title: "Watercolour"
+subtitle: "1943"
+description: "An interior view from an elevated position looking down on a group of people working at communications stations."
+author: "Imperial War Museums"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Watercolour
+### 1943
+An interior view from an elevated position looking down on a group of people working at communications stations.
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://www.iwm.org.uk/collections/item/object/7541"/>Watercolour</a> (Imperial War Museums)

@@ -1,0 +1,10 @@
+---
+title: "Ceefax"
+lat: "56.0588"
+lon: "-3.2339"
+author: Museum of Communication"
+description: "The BBC and ITV introduce Ceefax and Oracle – the world’s first teletext systems."
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

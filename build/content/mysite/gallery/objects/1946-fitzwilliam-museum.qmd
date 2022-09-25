@@ -1,0 +1,23 @@
+---
+title: "Print"
+subtitle: "1946"
+description: "Design for The 3rd Programme BBC"
+author: "Fitzwilliam Museum"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Print
+### 1946
+Design for The 3rd Programme BBC
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://data.fitzmuseum.cam.ac.uk/id/object/126000"/>Print</a> (Fitzwilliam Museum)

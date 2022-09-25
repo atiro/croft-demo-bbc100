@@ -1,0 +1,10 @@
+---
+title: "Gettin' Sentimental / By the Sycamore Tree"
+lat: "52.1983"
+lon: "0.1264"
+author: Polar Museum"
+description: "A 10-inch 78rpm gramophone record (a) with a cardboard sleeve (b), found inside a gramophone cabinet (Y: 85/5/1) used on board RRS Discovery II 1929-33. Side A is 'Gettin' Sentimental' performed by the BBC Dance Orchestra under the direction of Henry Hall, with vocal chorus. Side B is 'By the Sycamore Tree' performed by the BBC Dance Orchestra under the direction of Henry Hall, with vocal chorus."
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

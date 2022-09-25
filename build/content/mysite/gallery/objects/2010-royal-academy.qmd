@@ -1,0 +1,23 @@
+---
+title: "Moving Image"
+subtitle: "2010"
+description: "Mnemosyne refers to the mother of the Nine Muses who is also the personification of memory in Greek mythology. The film is also known as 'The Nine Muses' and features a tone poem composed of verses named after Mnemosyne and her daughters: Tragedy (Melpomene), History (Clio), Music (Euterpe), Sacred Song (Polyhymnia), Astronomy (Urania), Comedy (Thalia), Erotic Love (Erato), Dance (Terpsichore) and Epic Poetry (Calliope). Akomfrah created the film for the BBC/Arts Council 'Made in England' project and used archival material to retell the experience of post-war immigrants to the UK. Mnemosyne focuses on the West Midlands between 1960 and the 1980s with archival images  punctuated by others of a frozen wasteland.  "
+author: "Royal Academy"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Moving Image
+### 2010
+Mnemosyne refers to the mother of the Nine Muses who is also the personification of memory in Greek mythology. The film is also known as 'The Nine Muses' and features a tone poem composed of verses named after Mnemosyne and her daughters: Tragedy (Melpomene), History (Clio), Music (Euterpe), Sacred Song (Polyhymnia), Astronomy (Urania), Comedy (Thalia), Erotic Love (Erato), Dance (Terpsichore) and Epic Poetry (Calliope). Akomfrah created the film for the BBC/Arts Council 'Made in England' project and used archival material to retell the experience of post-war immigrants to the UK. Mnemosyne focuses on the West Midlands between 1960 and the 1980s with archival images  punctuated by others of a frozen wasteland.  
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://www.royalacademy.org.uk/art-artists/work-of-art/mnemosyne"/>Moving Image</a> (Royal Academy)

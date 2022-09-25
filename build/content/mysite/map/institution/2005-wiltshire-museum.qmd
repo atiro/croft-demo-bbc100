@@ -1,0 +1,10 @@
+---
+title: ""
+lat: "51.3498"
+lon: "-1.9935"
+author: Wiltshire Museum"
+description: "Colour photograph of BBC newsreader, author and journalist, George Alagiah taken in front of St.John's Court, Devizes in 2005. Devizes Festival event."
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

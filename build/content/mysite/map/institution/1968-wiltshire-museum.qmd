@@ -1,0 +1,10 @@
+---
+title: ""
+lat: "51.3498"
+lon: "-1.9935"
+author: Wiltshire Museum"
+description: "Photograph, and a copy, of Professor Richard Atkinson on the bridge leading to the tunnel mouth during the first live outside broadcast from the BBC 2 sponsored excavation of Silbury Hill, seen in 'The Silbury Dig', a 'Chronicle' presentation, seen on BBC 2 20th April 1968, Silbury Hill, Avebury, Wiltshire, 1968"
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---
