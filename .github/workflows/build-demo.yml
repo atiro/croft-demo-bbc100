@@ -22,7 +22,7 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: Run crofter to build site source from CSV data & config
-        run: python crofter-bbc.py
+        run: crofter
 
       - name: Run hugo to build static site from source data
         run: hugo build
