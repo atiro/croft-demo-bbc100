@@ -1,0 +1,106 @@
+{
+  "paths": {
+    "hugo_base": "."
+  },
+
+  "site": {
+   "name": "100 Years of Broadcasting Objects",
+   "title": "Cultural Heritage Objects",
+   "intro_short": "One hundred years of the BBC as documented in UK cultural heritage collections",
+   "intro_long": "<p>This site gathers objects held in institutions in the UK (and beyond) to mark 100 years of the BBC. Objects range from Handstamps to Caps, with a variety of photographs, books, and costumes along the way (and, more rarely, iron railings, radio valves and defaced coins.</p><p>  Whilst hopefully of some interest in itself, this is also a test dataset to explore the (oft-desired) idea of a minimal dataset publishing tool, to turn a small quantity of data about a *thing* into a website/mobile webapp for ease of sharing, through visualisition of some standard view types (Table, Gallery, Map, (Data) Query). For many small datasets this may provide a quick way for data to be shared (and perhaps contributed) through the use of a GitHub repo which can rebuild a website on every commit updating the CSV data. This is of course not a new idea, and the problems with attempting to provide a generic publishing tool for any dataset are well known; the desire for data specific views tends to limit the usefulness of such tools. The aim for Croft therefore is to provide just enough to be useful as a quick publisher, but also to be a starting point for more complex projects if needed. To enable this, the core concepts have been taken from CIDOC-CRM/Linked Art data models, in theory the CSVs and configuration can be transformed with minimal effort into more complex Linked Data structures for more complex querying and custom web interfaces.</p><p> This site is built from CSV data in this repo. Croft itself is built on Python & used Quarto to publish its HTML. This site has no authorisation from any of the institutions that hold the objects, nor from the BBC itself.</p><p> Happy 100th Birthday British Broadcasting Corporation.</p>"
+  },
+  "naming": {
+      "Actor": ["Institution", "Institutions"],
+      "Event": ["Interactive", "Interactives"]
+  },
+   "source": [
+     {
+        "filename": "data/objects.csv",
+        "mapping": [
+	[ "Year", "Thing::Year" ],
+	[ "Institution", "Actor::Name" ],
+	[ "Object", "Thing::Name" ],
+	[ "Title", "Thing::Title" ],
+	[ "Maker", "Thing::Maker" ],
+	[ "Image", "Thing::Image" ],
+	[ "Description", "Thing::Description" ],
+	[ "Link", "Thing::URL" ]
+	],
+	"related": [],
+	"link": "Institution",
+	"key": ["Year", "Institution"],
+        "display": "Year",
+      "output": ["Actor"]
+     },
+     {
+	"filename": "data/institutions.csv",
+	"mapping": [
+		[ "Institution", "Actor::Name" ],
+		[ "Location", "Actor::Location/Name" ],
+		[ "Lat", "Actor::Location/Lat" ],
+		[ "Lon", "Actor::Location/Lon" ],
+		[ "Website", "Actor::Website" ]
+	],
+	"related": [],
+        "link": "Institution",
+	"key": "",
+	"display": "Institution",
+        "output": ["Thing"]
+     }
+  ],
+  "views": {
+    "gallery": {
+      "title": "Objects by Year",
+      "primitives": ["Thing", "Actor"],
+      "slug": "objects",
+      "primary": true,
+      "options": {},
+      "output_map": {
+	      "Title":"Thing::Name",
+	      "Subtitle": "Thing::Year",
+	      "Description": "Thing::Description",
+	      "Image": "Thing::Image",
+	      "Thumbnail": "Thing::Image",
+	      "URL":  "Thing::URL",
+	      "Author": "Actor::Name"
+      }
+    },
+    "table": {
+      "title": "Objects by Institution",
+      "primitives": ["Actor", "Thing"],
+      "slug": "institution",
+      "primary": true,
+      "output_list": [
+	      ["Author", "Actor::Name", "Institution"],
+	      ["Year", "Thing::Year", "Year"],
+	      ["Title", "Thing::Name", "Object"],
+	      ["Name", "Thing::Title", "Title"]
+      ],
+      "options": {
+	      "sort": ["Author", "Year"]
+      }
+    },
+    "map": {
+      "title": "Objects by Map",
+      "primitives": ["Actor"],
+      "slug": "institution",
+      "primary": true,
+      "options": {
+	      "centre": [53.8167, -3.0370],
+	      "zoom": 6
+      },
+      "output_map": {
+	      "Title":"Thing::Title",
+	      "Subtitle": "Thing::Year",
+	      "Description": "Thing::Description",
+	      "Image": "Thing::Image",
+	      "Location/Lat": "Actor::Location/Lat",
+	      "Location/Lon": "Actor::Location/Lon",
+	      "Thumbnail": "Thing::Image",
+	      "URL":  "Thing::URL",
+	      "Author": "Actor::Name"
+      }
+    }
+  }
+}
+

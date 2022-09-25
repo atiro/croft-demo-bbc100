@@ -1,39 +1,51 @@
-Birmingham Museums
-British Library
-British Museum
-Centre for Computing History
-Fitzwilliam Museum
-Glasgow Museums
-Hastings Museum & Art Gallery
-Hunterian Museum
-Imperial War Museums
-London Transport Museum
-Manchester Art Gallery
-Museum of Carpet
-Museum of English Rural Life
-Museum of London
-National Museums Liverpool
-National Museums NI
-National Museums Scotland
-National Museum Wales
-National Space Centre
-NPG
-Oldham Council Heritage Collections
-Polar Museum
-Porthcurno Museum of Global Communications
-Potteries Museum & Art Galleries
-Reading Museum
-Richmond Museum
-Royal Academy
-Royal Museums Greenwich
-Science Museum
-St Alban's Museum
-Tate Modern
-Tyne & Wear Archives & Museums
-V&A
-Wellcome Collection
-Whipple Museum of the History of Science
-Whitchurch Heritage Centre
-Wiltshire Museum
-Wordsworth Trust
-Yale Center for British Art
+Institution,Location,Lat,Lon,Website
+"Aberdeen Archives, Gallery & Museums",Aberdeen,57.1480,-2.1026,https://www.aberdeencity.gov.uk/AAGM
+Birmingham Museums,Birmingham,52.4801,-1.9035,https://www.birminghammuseums.org.uk/
+Bodleian Library,Oxford,51.7541,-1.2540,https://www.bodleian.ox.ac.uk/
+British Library,London,51.5300,-0.1277,https://www.bl.uk/
+British Museum,London,51.5194,-0.1270,https://www.britishmuseum.org/
+Centre for Computing History,Cambridge,52.2079,0.1490,http://www.computinghistory.org.uk/
+Fitzwilliam Museum,Cambridge,52.2002,0.1195,https://www.fitzmuseum.cam.ac.uk/
+Glasgow Museums,Glasgow,55.8686,-4.2906,https://www.glasgowlife.org.uk/museums#venues
+Hastings Museum & Art Gallery,Hastings,50.8563,0.5711,https://www.hmag.org.uk/
+Hunterian Museum,Glasgow,55.8730,-4.2890,https://www.gla.ac.uk/hunterian/
+Imperial War Museums,London,51.4958,-0.1087,https://www.iwm.org.uk/
+Internet Archive,San Francisco,37.7749,-122.4194,https://archive.org/
+London Transport Museum,London,51.5121,-0.1212,https://www.ltmuseum.co.uk/
+Manchester Art Gallery,Manchester,53.4789,-2.2415,https://manchesterartgallery.org/
+Museum of Carpet,Kidderminster,52.3848,-2.2455,https://museumofcarpet.org/
+Museum of Communication,Burntisland,56.0588,-3.2339,https://museumofcommunication.org.uk/
+Museum of English Rural Life,Reading,51.4491,-0.9597,https://merl.reading.ac.uk/
+Museum of London,London,51.5176,-0.0968,https://www.museumoflondon.org.uk/
+National Archives,London,51.4811,-0.2794,https://www.nationalarchives.gov.uk/
+National Library of Scotland,Edinburgh,55.9486,-3.1920,https://www.nls.uk/
+National Library of Wales,Aberystwyth,52.4146,-4.0685,https://www.nls.uk/
+National Museums Liverpool,Liverpool,53.4035,-2.9956,https://www.liverpoolmuseums.org.uk/
+National Museums NI,Belfast,54.5821,-5.9358,https://www.nmni.com/
+National Museums Scotland,Edinburgh,55.9470,-3.1909,https://www.nms.ac.uk/
+National Museum Wales,Cardiff,51.4857,-3.1768,https://museum.wales/
+National Portrait Gallery,London,51.5094,-0.1281,https://www.npg.org.uk/
+National Space Centre,Leicester,52.6537,-1.1316,https://spacecentre.co.uk/
+Norfolk Museums Collections,Norfolk,52.7148,0.9212,https://www.museums.norfolk.gov.uk/
+NPG,London,51.5094,-0.1281,https://npg.org.uk/
+Oldham Council Heritage Collections,Oldham,53.5409,-2.1114,https://www.oldham.gov.uk/info/200891/investment_schemes/1307/oldham_heritage_and_arts_centre
+Polar Museum,Cambridge,52.1983,0.1264,https://www.spri.cam.ac.uk/museum/
+Porthcurno Museum of Global Communications,Porthcurno,50.0468,-5.6549,https://pkporthcurno.com/
+Potteries Museum & Art Galleries,Stoke-on-Trent,53.0231,-2.1779,https://www.stokemuseums.org.uk/pmag/
+Reading Museum,Reading,51.4570,-0.9699,https://www.readingmuseum.org.uk/
+Richmond Museum,Richmond,51.4589,-0.3065,https://www.museumofrichmond.com/
+Royal Academy,London,51.5094,-0.1399,https://www.royalacademy.org.uk/
+Royal Museums Greenwich,London,51.4769,0.0005,https://www.rmg.co.uk/
+Science Museum,London,51.4972,-0.1767,https://www.sciencemuseum.org.uk/
+"St Alban's Museum","St Alban's",51.7522,-0.3389,https://www.stalbansmuseums.org.uk/
+Tate Modern,London,51.5076,-0.0994,http://www.tate.org.uk/
+Tyne & Wear Archives & Museums,Newcastle,54.9691,-1.6248
+V&A,London,51.4966,-0.1722,https://www.vam.ac.uk/
+Wellcome Collection,London,51.5259,-0.1339,https://wellcomecollection.org/
+Whipple Museum of the History of Science,Cambridge,52.2028,0.1194,https://www.whipplemuseum.cam.ac.uk/
+Whitchurch Heritage Centre,Whitchurch,52.9699,-2.6833,https://www.whitchurch-heritage.co.uk/
+Wiltshire Museum,Devizes,51.3498,-1.9935,https://www.wiltshiremuseum.org.uk/
+Wordsworth Trust,Grazmere,54.4537,-3.0167,https://wordsworth.org.uk/
+Yale Center for British Art,Yale,41.3079,-72.9305,https://britishart.yale.edu/
+York Museums Trust,York,53.9620,-1.0895,https://www.yorkmuseumstrust.org.uk/
+Yorkshire Museum,York,53.9617,-1.0877,https://www.yorkshiremuseum.org.uk/
