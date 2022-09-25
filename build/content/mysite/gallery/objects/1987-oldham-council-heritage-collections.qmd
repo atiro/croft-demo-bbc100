@@ -1,0 +1,23 @@
+---
+title: "Book"
+subtitle: "1987"
+description: "An informal history of the BBC in Manchester & the North West"
+author: "Oldham Council Heritage Collections"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Book
+### 1987
+An informal history of the BBC in Manchester & the North West
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://calmview.oldham.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&pos=2"/>Book</a> (Oldham Council Heritage Collections)

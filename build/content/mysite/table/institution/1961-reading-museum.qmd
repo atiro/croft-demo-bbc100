@@ -1,0 +1,9 @@
+---
+author: "Reading Museum"
+year: "1961"
+title: "Photograph"
+name: "BBC at Reading Museum"
+draft: false
+type: institution
+---
+I think this then appears as the content

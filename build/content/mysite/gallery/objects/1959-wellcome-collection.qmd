@@ -1,0 +1,25 @@
+---
+title: "Papers"
+subtitle: "1959"
+description: "Papers of M H F Wilkins: scripts for a BBC television documentary about DNA, with related correspondence"
+image: "https://iiif.wellcomecollection.org/image/b20046650_K_PP178_5_7_001.JP2/full/300,/0/default.jpg"
+thumbnail: "https://iiif.wellcomecollection.org/image/b20046650_K_PP178_5_7_001.JP2/full/200,/0/default.jpg"
+author: "Wellcome Collection"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Papers
+### 1959
+Papers of M H F Wilkins: scripts for a BBC television documentary about DNA, with related correspondence
+
+::: {.column-margin}
+<img src="https://iiif.wellcomecollection.org/image/b20046650_K_PP178_5_7_001.JP2/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://wellcomecollection.org/works/d6mbzyev"/>Papers</a> (Wellcome Collection)

@@ -1,0 +1,23 @@
+---
+title: "Film"
+subtitle: "1944"
+description: "A reconstruction of the first 'live' broadcast made by a BBC radio correspondent in Normandy."
+author: "Imperial War Museums"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Film
+### 1944
+A reconstruction of the first 'live' broadcast made by a BBC radio correspondent in Normandy.
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://www.iwm.org.uk/collections/item/object/1060019466"/>Film</a> (Imperial War Museums)

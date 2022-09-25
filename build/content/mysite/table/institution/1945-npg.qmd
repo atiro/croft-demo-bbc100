@@ -1,0 +1,9 @@
+---
+author: "NPG"
+year: "1945"
+title: "Photograph"
+name: "Adelaide Hall"
+draft: false
+type: institution
+---
+I think this then appears as the content

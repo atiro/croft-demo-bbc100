@@ -1,0 +1,10 @@
+---
+title: "An Underground Room in the BBC Building"
+lat: "51.4958"
+lon: "-0.1087"
+author: Imperial War Museums"
+description: "An interior view from an elevated position looking down on a group of people working at communications stations."
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

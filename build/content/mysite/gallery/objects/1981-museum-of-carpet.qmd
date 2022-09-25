@@ -1,0 +1,23 @@
+---
+title: "Audio"
+subtitle: "1981"
+description: "Taped recording of a BBC Radio Four programme by Roger McGough, including interviews with Topham Brinton and workers"
+author: "Museum of Carpet"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Audio
+### 1981
+Taped recording of a BBC Radio Four programme by Roger McGough, including interviews with Topham Brinton and workers
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="http://176.35.59.152:8088/dserve/dserve.exe?dsqIni=Dserve.ini&dsqApp=Archive&dsqCmd=Show.tcl&dsqDb=Catalog&dsqPos=0&dsqSearch=%28%28text%29%3D%27bbc%27%29"/>Audio</a> (Museum of Carpet)

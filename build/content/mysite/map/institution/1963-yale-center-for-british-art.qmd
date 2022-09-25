@@ -1,0 +1,10 @@
+---
+title: "David Frost"
+lat: "41.3079"
+lon: "-72.9305"
+author: Yale Center for British Art"
+description: "https://collections.britishart.yale.edu/catalog/tms:72779"
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

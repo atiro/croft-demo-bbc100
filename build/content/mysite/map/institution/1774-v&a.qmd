@@ -1,0 +1,10 @@
+---
+title: ""
+lat: "51.4966"
+lon: "-0.1722"
+author: V&A"
+description: "1 Foley Place (previously 69 Queen Anne Street East, and referred to by 1928 as Foley House) was designed by James Wyatt to be his own home and office, and was almost certainly a show place for his skills and taste. Its contents were of sufficient quality that the V&A was offered a selection as a gift when the house was about to be demolished. The demolition was in order for George Val Myer to build Broadcasting House for his client, the British Broadcasting Corporation (BBC)"
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

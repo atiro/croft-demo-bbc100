@@ -1,0 +1,10 @@
+---
+title: ""
+lat: "51.5194"
+lon: "-0.1270"
+author: British Museum"
+description: "The coin was likely defaced by supporters of the Free Radio Association (FRA) with headquarters at 239 Eastwood Road, Rayleigh, Essex. The FRA was formed in response to the Marine Offences Bill which would make illegal and bring to an end the broadcasting from ships offshore."
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

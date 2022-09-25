@@ -1,0 +1,23 @@
+---
+title: "Photograph"
+subtitle: "1963"
+description: "https://collections.britishart.yale.edu/catalog/tms:72779"
+image: "https://images.collections.yale.edu/iiif/2/ycba:1725f504-6fae-4fea-b7a6-72e91aba254b/full/300,/0/default.jpg"
+thumbnail: "https://images.collections.yale.edu/iiif/2/ycba:1725f504-6fae-4fea-b7a6-72e91aba254b/full/200,/0/default.jpg"
+author: "Yale Center for British Art"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Photograph
+### 1963
+https://collections.britishart.yale.edu/catalog/tms:72779
+
+::: {.column-margin}
+<img src="https://images.collections.yale.edu/iiif/2/ycba:1725f504-6fae-4fea-b7a6-72e91aba254b/full/400,/0/default.jpg">
+
+:::
+

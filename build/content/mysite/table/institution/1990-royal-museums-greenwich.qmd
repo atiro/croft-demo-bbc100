@@ -1,0 +1,9 @@
+---
+author: "Royal Museums Greenwich"
+year: "1990"
+title: "Microphone"
+name: ""
+draft: false
+type: institution
+---
+I think this then appears as the content

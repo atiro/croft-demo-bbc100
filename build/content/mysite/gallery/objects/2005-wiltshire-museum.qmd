@@ -1,0 +1,23 @@
+---
+title: "Photograph"
+subtitle: "2005"
+description: "Colour photograph of BBC newsreader, author and journalist, George Alagiah taken in front of St.John's Court, Devizes in 2005. Devizes Festival event."
+author: "Wiltshire Museum"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Photograph
+### 2005
+Colour photograph of BBC newsreader, author and journalist, George Alagiah taken in front of St.John's Court, Devizes in 2005. Devizes Festival event.
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="http://www.wiltshireheritagecollections.org.uk/index.asp?page=itema&mwsquery=({Phrase%20search}=*{bbc})&filename=DZSWS&hitsStart=7&hitsNext=%3E%3E"/>Photograph</a> (Wiltshire Museum)

@@ -1,0 +1,9 @@
+---
+author: "Wellcome Collection"
+year: "1935"
+title: "Correspondence"
+name: "Causes of War"
+draft: false
+type: institution
+---
+I think this then appears as the content

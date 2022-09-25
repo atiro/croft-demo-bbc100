@@ -1,0 +1,9 @@
+---
+author: "Fitzwilliam Museum"
+year: "1946"
+title: "Print"
+name: "Design for The 3rd Programme BBC"
+draft: false
+type: institution
+---
+I think this then appears as the content

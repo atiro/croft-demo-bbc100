@@ -1,0 +1,9 @@
+---
+author: "Royal Academy"
+year: "2010"
+title: "Moving Image"
+name: "Mnemosyne"
+draft: false
+type: institution
+---
+I think this then appears as the content

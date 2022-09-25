@@ -1,0 +1,9 @@
+---
+author: "Birmingham Museums"
+year: "2019"
+title: "Painting"
+name: "Autumn"
+draft: false
+type: institution
+---
+I think this then appears as the content

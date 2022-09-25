@@ -1,0 +1,23 @@
+---
+title: "Photograph"
+subtitle: "1931"
+description: " BBC Building, old station. Leacock & Co., linen manufacturers (No. 31, shared with B.B.C.).  Exterior view.  17 July 1931."
+author: "National Museums NI"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Photograph
+### 1931
+ BBC Building, old station. Leacock & Co., linen manufacturers (No. 31, shared with B.B.C.).  Exterior view.  17 July 1931.
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://www.nmni.com/collections/history/photographs/hogg-collection/belumy3154"/>Photograph</a> (National Museums NI)

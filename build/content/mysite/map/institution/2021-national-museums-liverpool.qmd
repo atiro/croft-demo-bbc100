@@ -1,0 +1,10 @@
+---
+title: "Peaky Blinder's cap worn by Cillian Murphy"
+lat: "53.4035"
+lon: "-2.9956"
+author: National Museums Liverpool"
+description: "‘Peaky Blinders’, the critically acclaimed BBC gangster drama largely set in post First World War Birmingham, centres around the exploits of the fictional Shelby family and their expanding volatile empire. This cap was worn by Cillian Murphy, in Season 5, playing lead character, Thomas ‘Tommy’ Shelby. Lent by Peaky Blinders™ and © Caryn Mandabach Productions Limited"
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

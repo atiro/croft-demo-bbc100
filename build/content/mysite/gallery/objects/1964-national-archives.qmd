@@ -1,0 +1,23 @@
+---
+title: "Public Record"
+subtitle: "1964"
+description: "Complaint under Clause 21 of the BBC Licence and Agreement: Variety Artists Federation claim Billy Smart's New World Circus should pay a supplementary fee to Captain Decker's Sea Lion Act"
+author: "National Archives"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Public Record
+### 1964
+Complaint under Clause 21 of the BBC Licence and Agreement: Variety Artists Federation claim Billy Smart's New World Circus should pay a supplementary fee to Captain Decker's Sea Lion Act
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://discovery.nationalarchives.gov.uk/details/r/C1790989"/>Public Record</a> (National Archives)

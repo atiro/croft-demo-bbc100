@@ -1,0 +1,16 @@
+---
+title: "Objects by Institution"
+listing:
+  type: table
+  field-display-names:
+    author: "Institution"
+    year: "Year"
+    title: "Object"
+    name: "Title"
+  fields: [author,year,title,name]
+  sort-ui: [author,year,title,name]
+  sort:
+    - "author"
+    - "year"
+  sort-ui: [author,year,title,name]
+---

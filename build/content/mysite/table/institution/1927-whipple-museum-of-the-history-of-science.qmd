@@ -1,0 +1,9 @@
+---
+author: "Whipple Museum of the History of Science"
+year: "1927"
+title: "Radio Valve"
+name: ""
+draft: false
+type: institution
+---
+I think this then appears as the content

@@ -1,0 +1,25 @@
+---
+title: "Poster"
+subtitle: "1939"
+description: "Poster advertising Carroll Levis and his latest BBC Discoveries"
+image: "https://framemark.vam.ac.uk/collections/2014GY0763//full/300,/0/default.jpg"
+thumbnail: "https://framemark.vam.ac.uk/collections/2014GY0763//full/200,/0/default.jpg"
+author: "V&A"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Poster
+### 1939
+Poster advertising Carroll Levis and his latest BBC Discoveries
+
+::: {.column-margin}
+<img src="https://framemark.vam.ac.uk/collections/2014GY0763//full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://collections.vam.ac.uk/item/O1162479/poster-unknown/"/>Poster</a> (V&A)

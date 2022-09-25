@@ -1,0 +1,25 @@
+---
+title: "Chair"
+subtitle: "1936"
+description: "This was the most ubiquitous tubular steel chair made in Britain during the 1930s. It was used extensively at Broadcasting House, the new premises of the BBC"
+image: "https://framemark.vam.ac.uk/collections/2006AT9590/full/300,/0/default.jpg"
+thumbnail: "https://framemark.vam.ac.uk/collections/2006AT9590/full/200,/0/default.jpg"
+author: "V&A"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Chair
+### 1936
+This was the most ubiquitous tubular steel chair made in Britain during the 1930s. It was used extensively at Broadcasting House, the new premises of the BBC
+
+::: {.column-margin}
+<img src="https://framemark.vam.ac.uk/collections/2006AT9590/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://collections.vam.ac.uk/item/O372425/model-rp6-chair-pollak-bruno/"/>Chair</a> (V&A)

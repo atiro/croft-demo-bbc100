@@ -1,0 +1,9 @@
+---
+author: "NPG"
+year: "1957"
+title: "Photograph"
+name: "Errol John"
+draft: false
+type: institution
+---
+I think this then appears as the content

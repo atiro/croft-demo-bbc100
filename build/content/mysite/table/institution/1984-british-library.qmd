@@ -1,0 +1,9 @@
+---
+author: "British Library"
+year: "1984"
+title: "Electronic"
+name: "Wakefield BBC Micro User Group. (December, 1984)"
+draft: false
+type: institution
+---
+I think this then appears as the content

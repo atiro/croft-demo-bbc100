@@ -1,0 +1,10 @@
+---
+title: "Ozzy"
+lat: "53.0231"
+lon: "-2.1779"
+author: Potteries Museum & Art Galleries"
+description: "Ozzy first came to the world’s attention on an episode of the BBC’s Antiques Roadshow in March 1990. He was acquired shortly afterwards by the museum to join the significant slipware collection and is one of the museum’s most iconic objects. Ozzy’s seller used the money from this sale to support five orphans from around the world."
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

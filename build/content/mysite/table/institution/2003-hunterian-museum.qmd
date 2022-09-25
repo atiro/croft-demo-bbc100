@@ -1,0 +1,9 @@
+---
+author: "Hunterian Museum"
+year: "2003"
+title: "Drawing"
+name: "Whistler's mother"
+draft: false
+type: institution
+---
+I think this then appears as the content

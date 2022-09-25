@@ -1,0 +1,23 @@
+---
+title: "Electronic"
+subtitle: "1984"
+description: ""
+author: "British Library"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Electronic
+### 1984
+
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="http://explore.bl.uk/BLVU1:LSCOP-ALL:BLISS/81055/vdc_100147776383.0x000001_020516884"/>Electronic</a> (British Library)

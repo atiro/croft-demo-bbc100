@@ -1,0 +1,9 @@
+---
+author: "Aberdeen Archives, Gallery & Museums"
+year: "1930"
+title: "Card"
+name: "BBC Radio Circle Membership Card"
+draft: false
+type: institution
+---
+I think this then appears as the content

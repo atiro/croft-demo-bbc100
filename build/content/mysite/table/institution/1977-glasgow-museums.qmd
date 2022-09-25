@@ -1,0 +1,9 @@
+---
+author: "Glasgow Museums"
+year: "1977"
+title: "Painting"
+name: "Fidelma Cook in the BBC News Gallery"
+draft: false
+type: institution
+---
+I think this then appears as the content

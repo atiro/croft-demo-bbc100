@@ -1,0 +1,25 @@
+---
+title: "Draft and Script"
+subtitle: "1937"
+description: "BBC Broadcast: `It's Happening Now: The Pioneer Health Centre, Peckham: Howard Marshall and others'"
+image: "https://iiif.wellcomecollection.org/image/b1965974x_0001.jp2/full/300,/0/default.jpg"
+thumbnail: "https://iiif.wellcomecollection.org/image/b1965974x_0001.jp2/full/200,/0/default.jpg"
+author: "Wellcome Collection"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Draft and Script
+### 1937
+BBC Broadcast: `It's Happening Now: The Pioneer Health Centre, Peckham: Howard Marshall and others'
+
+::: {.column-margin}
+<img src="https://iiif.wellcomecollection.org/image/b1965974x_0001.jp2/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://wellcomecollection.org/works/tp26d5gm"/>Draft and Script</a> (Wellcome Collection)

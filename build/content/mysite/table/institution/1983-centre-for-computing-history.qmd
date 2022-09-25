@@ -1,0 +1,9 @@
+---
+author: "Centre for Computing History"
+year: "1983"
+title: "Computer Controlled Vehicle"
+name: "BBC Buggy"
+draft: false
+type: institution
+---
+I think this then appears as the content

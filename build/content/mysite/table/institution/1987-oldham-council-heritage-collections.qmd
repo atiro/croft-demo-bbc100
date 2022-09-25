@@ -1,0 +1,9 @@
+---
+author: "Oldham Council Heritage Collections"
+year: "1987"
+title: "Book"
+name: "2ZY to NBH. An informal history of the BBC in Manchester & the North West"
+draft: false
+type: institution
+---
+I think this then appears as the content

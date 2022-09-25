@@ -1,0 +1,10 @@
+---
+title: "Tabard worn by Ian McKellen as Richard II"
+lat: "51.4966"
+lon: "-0.1722"
+author: V&A"
+description: "This costume was made for Prospect Theatre Company’s 1968 production of Richard II starring 29-year-old Ian McKellen as the King. Its five week tour was such a success that a second tour, starting at the Edinburgh Festival, was followed by a sell-out London run. It went on to tour Europe and was filmed by the BBC in 1970, establishing McKellen as a leading actor."
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

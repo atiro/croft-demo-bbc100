@@ -1,0 +1,23 @@
+---
+title: "Radio Valve"
+subtitle: "1927"
+description: "c. 234 x radio valves, plus lightbulbs, valve holders, and related papers, by Mullard; Marconi; Cossor; Osram; Brimar; Ever Ready; Radiotron; US Army US Navy; Triad; BBC; Raytheon; Triotron; Sylvania; Tungsram; Ericsson; Pliotron; Westinghouse; Dario, 32 without makers name, early 20th century"
+author: "Whipple Museum of the History of Science"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Radio Valve
+### 1927
+c. 234 x radio valves, plus lightbulbs, valve holders, and related papers, by Mullard; Marconi; Cossor; Osram; Brimar; Ever Ready; Radiotron; US Army US Navy; Triad; BBC; Raytheon; Triotron; Sylvania; Tungsram; Ericsson; Pliotron; Westinghouse; Dario, 32 without makers name, early 20th century
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://collections.whipplemuseum.cam.ac.uk/objects/9360"/>Radio Valve</a> (Whipple Museum of the History of Science)

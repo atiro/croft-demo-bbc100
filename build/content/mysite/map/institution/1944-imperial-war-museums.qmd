@@ -1,0 +1,10 @@
+---
+title: "A BBC Radio Broadcast from Normandy"
+lat: "51.4958"
+lon: "-0.1087"
+author: Imperial War Museums"
+description: "A reconstruction of the first 'live' broadcast made by a BBC radio correspondent in Normandy."
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

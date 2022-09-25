@@ -1,0 +1,9 @@
+---
+author: "National Museums Scotland"
+year: "1934"
+title: "Baird-system television kit"
+name: "Mervy Sound and Vision Company"
+draft: false
+type: institution
+---
+I think this then appears as the content

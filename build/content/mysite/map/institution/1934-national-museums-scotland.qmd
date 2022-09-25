@@ -1,0 +1,10 @@
+---
+title: "Mervy Sound and Vision Company"
+lat: "55.9470"
+lon: "-3.1909"
+author: National Museums Scotland"
+description: "https://www.nms.ac.uk/explore-our-collections/collection-search-results/television-kit/381235"
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

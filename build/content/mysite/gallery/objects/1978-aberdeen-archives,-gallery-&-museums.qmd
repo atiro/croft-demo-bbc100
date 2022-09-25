@@ -1,0 +1,23 @@
+---
+title: "Leaflet"
+subtitle: "1978"
+description: "BBC Radio from 23 November 1978"
+author: "Aberdeen Archives, Gallery & Museums"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Leaflet
+### 1978
+BBC Radio from 23 November 1978
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://emuseum.aberdeencity.gov.uk/objects/21755/bbc-radio-from-23-november-1978"/>Leaflet</a> (Aberdeen Archives, Gallery & Museums)

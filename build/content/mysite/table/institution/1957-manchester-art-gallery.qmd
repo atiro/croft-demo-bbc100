@@ -1,0 +1,9 @@
+---
+author: "Manchester Art Gallery"
+year: "1957"
+title: "Decanter & Glasses & Tray"
+name: ""
+draft: false
+type: institution
+---
+I think this then appears as the content

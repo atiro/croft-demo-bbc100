@@ -1,0 +1,9 @@
+---
+author: "National Museums Liverpool"
+year: "2021"
+title: "Cap"
+name: "Peaky Blinder's cap worn by Cillian Murphy"
+draft: false
+type: institution
+---
+I think this then appears as the content

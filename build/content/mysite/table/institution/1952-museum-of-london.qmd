@@ -1,0 +1,9 @@
+---
+author: "Museum of London"
+year: "1952"
+title: "Watercolour and Pencil Drawing"
+name: "Upper Regent Street looking towards All Soul's Church"
+draft: false
+type: institution
+---
+I think this then appears as the content

@@ -1,0 +1,25 @@
+---
+title: "Print"
+subtitle: "1929"
+description: "This colour process engraving was designed by Edward McKnight Kauffer for the British Broadcasting Corporation’s handbook in 1929. Here, lighting is used to signify power and enlightenment and progress."
+image: "https://framemark.vam.ac.uk/collections/2006BA0576/full/300,/0/default.jpg"
+thumbnail: "https://framemark.vam.ac.uk/collections/2006BA0576/full/200,/0/default.jpg"
+author: "V&A"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Print
+### 1929
+This colour process engraving was designed by Edward McKnight Kauffer for the British Broadcasting Corporation’s handbook in 1929. Here, lighting is used to signify power and enlightenment and progress.
+
+::: {.column-margin}
+<img src="https://framemark.vam.ac.uk/collections/2006BA0576/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://collections.vam.ac.uk/item/O112013/bbc-handbook-print-kauffer-edward-mcknight/"/>Print</a> (V&A)

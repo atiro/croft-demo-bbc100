@@ -1,0 +1,23 @@
+---
+title: "Photograph"
+subtitle: "1968"
+description: "Photograph, and a copy, of Professor Richard Atkinson on the bridge leading to the tunnel mouth during the first live outside broadcast from the BBC 2 sponsored excavation of Silbury Hill, seen in 'The Silbury Dig', a 'Chronicle' presentation, seen on BBC 2 20th April 1968, Silbury Hill, Avebury, Wiltshire, 1968"
+author: "Wiltshire Museum"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Photograph
+### 1968
+Photograph, and a copy, of Professor Richard Atkinson on the bridge leading to the tunnel mouth during the first live outside broadcast from the BBC 2 sponsored excavation of Silbury Hill, seen in 'The Silbury Dig', a 'Chronicle' presentation, seen on BBC 2 20th April 1968, Silbury Hill, Avebury, Wiltshire, 1968
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="http://www.wiltshireheritagecollections.org.uk/index.asp?page=itema&mwsquery=({Phrase%20search}=*{bbc})&filename=DZSWS&hitsStart=1&hitsNext=%3E%3E"/>Photograph</a> (Wiltshire Museum)

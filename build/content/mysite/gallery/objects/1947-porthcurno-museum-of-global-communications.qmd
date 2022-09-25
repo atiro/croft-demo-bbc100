@@ -1,0 +1,23 @@
+---
+title: "Photograph"
+subtitle: "1947"
+description: "One photographic negative and one black and white photograph of Mr Fred Goodman sending a message from London to Capetown during the BBC televised operations in the Instrument and Phototelegraph Rooms at Electra House, London"
+author: "Porthcurno Museum of Global Communications"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Photograph
+### 1947
+One photographic negative and one black and white photograph of Mr Fred Goodman sending a message from London to Capetown during the BBC televised operations in the Instrument and Phototelegraph Rooms at Electra House, London
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://pkoc.co.uk/collections-search/?si_elastic_detail=PHO///7990/"/>Photograph</a> (Porthcurno Museum of Global Communications)

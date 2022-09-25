@@ -1,0 +1,25 @@
+---
+title: "Drawing"
+subtitle: "1926"
+description: "The D'Oyly Carte Opera Company's new production of Gilbert and Sullivan's popular comic opera The Mikado at the Princes Theatre on Monday 20th September 1926 generated a huge amount of interest. Speculation about the new costumes designed by Charles Ricketts (1866-1931) generated a lot of press interest and speculation; tickets for the first night sold out months in advance, and the production was broadcast on the night on the radio live from the theatre by the BBC."
+image: "https://framemark.vam.ac.uk/collections/2021NB3968/full/300,/0/default.jpg"
+thumbnail: "https://framemark.vam.ac.uk/collections/2021NB3968/full/200,/0/default.jpg"
+author: "V&A"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Drawing
+### 1926
+The D'Oyly Carte Opera Company's new production of Gilbert and Sullivan's popular comic opera The Mikado at the Princes Theatre on Monday 20th September 1926 generated a huge amount of interest. Speculation about the new costumes designed by Charles Ricketts (1866-1931) generated a lot of press interest and speculation; tickets for the first night sold out months in advance, and the production was broadcast on the night on the radio live from the theatre by the BBC.
+
+::: {.column-margin}
+<img src="https://framemark.vam.ac.uk/collections/2021NB3968/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://collections.vam.ac.uk/item/O1657555/cartoon-commenting-on-the-doyly-drawing/"/>Drawing</a> (V&A)

@@ -1,0 +1,10 @@
+---
+title: "The Story of Rayon"
+lat: "51.4589"
+lon: "-0.3065"
+author: Richmond Museum"
+description: "Copy of script for BBC broadcast on 'The Story of Rayon' with notes and comments, shown on 25/02/1954"
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

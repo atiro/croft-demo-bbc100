@@ -1,0 +1,9 @@
+---
+author: "Museum of English Rural Life"
+year: "1953"
+title: "Scrapbook"
+name: "Scrapbook of cuttings compiled by Romany Watt, (formerly Bain), daughter of G. Bramwell Evens"
+draft: false
+type: institution
+---
+I think this then appears as the content

@@ -1,0 +1,23 @@
+---
+title: "Card"
+subtitle: "1930"
+description: "BBC Radio Circle Membership Card"
+author: "Aberdeen Archives, Gallery & Museums"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Card
+### 1930
+BBC Radio Circle Membership Card
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://emuseum.aberdeencity.gov.uk/objects/34901/bbc-radio-circle-membership-card"/>Card</a> (Aberdeen Archives, Gallery & Museums)

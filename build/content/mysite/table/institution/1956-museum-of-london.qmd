@@ -1,0 +1,9 @@
+---
+author: "Museum of London"
+year: "1956"
+title: "Photograph"
+name: "Construction workers erecting a TV mast at Crystal Palace"
+draft: false
+type: institution
+---
+I think this then appears as the content

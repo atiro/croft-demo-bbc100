@@ -1,0 +1,9 @@
+---
+author: "V&A"
+year: "1926"
+title: "Drawing"
+name: "Cartoon commenting on the D'Oyly Carte's redressed production of The Mikado, 1926"
+draft: false
+type: institution
+---
+I think this then appears as the content

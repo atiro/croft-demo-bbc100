@@ -1,0 +1,10 @@
+---
+title: ""
+lat: "54.5821"
+lon: "-5.9358"
+author: National Museums NI"
+description: " BBC Building, old station. Leacock & Co., linen manufacturers (No. 31, shared with B.B.C.).  Exterior view.  17 July 1931."
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

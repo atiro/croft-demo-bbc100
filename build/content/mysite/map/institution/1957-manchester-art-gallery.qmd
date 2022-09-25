@@ -1,0 +1,10 @@
+---
+title: ""
+lat: "53.4789"
+lon: "-2.2415"
+author: Manchester Art Gallery"
+description: ""
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

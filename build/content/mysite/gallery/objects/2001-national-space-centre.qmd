@@ -1,0 +1,23 @@
+---
+title: "Toy"
+subtitle: "2001"
+description: "The Clangers is a British stop-motion animated television series for children. It features a family of pink mouse-like characters, who live on a small planet similar to the Moon and speak only in whistles. The series was produced for the BBC by Smallfilms, a company set up by Oliver Postgate and Peter Firmin. Postgate was the writer, animator, and narrator and Firmin designed the characters. Firmin’s wife knitted the Clangers and made their costumes. This Clanger was knitted to the original pattern. The programme was initially broadcast from 1969 to 1972. This was the era of the Apollo Moon landings, so space exploration was an extremely popular topic. A new series was commissioned in 2015 after a special episode – Eclipse of the Sun, proved extremely popular. "
+author: "National Space Centre"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Toy
+### 2001
+The Clangers is a British stop-motion animated television series for children. It features a family of pink mouse-like characters, who live on a small planet similar to the Moon and speak only in whistles. The series was produced for the BBC by Smallfilms, a company set up by Oliver Postgate and Peter Firmin. Postgate was the writer, animator, and narrator and Firmin designed the characters. Firmin’s wife knitted the Clangers and made their costumes. This Clanger was knitted to the original pattern. The programme was initially broadcast from 1969 to 1972. This was the era of the Apollo Moon landings, so space exploration was an extremely popular topic. A new series was commissioned in 2015 after a special episode – Eclipse of the Sun, proved extremely popular. 
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://collections.spacecentre.co.uk/object-h2001-10"/>Toy</a> (National Space Centre)

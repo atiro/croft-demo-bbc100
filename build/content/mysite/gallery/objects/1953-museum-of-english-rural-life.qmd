@@ -1,0 +1,23 @@
+---
+title: "Scrapbook"
+subtitle: "1953"
+description: " The scrapbook contains assorted newspaper articles, magazine cuttings, letters, and drawings about Gypsies and their way of life, recieved by Robert Dawson in November 1997.  G Bramwell Evens was also known as 'Romany of the BBC'."
+author: "Museum of English Rural Life"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Scrapbook
+### 1953
+ The scrapbook contains assorted newspaper articles, magazine cuttings, letters, and drawings about Gypsies and their way of life, recieved by Robert Dawson in November 1997.  G Bramwell Evens was also known as 'Romany of the BBC'.
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://rdg.ent.sirsidynix.net.uk/client/en_GB/merl/search/detailnonmodal/ent:$002f$002fUOR_ADLIB_ARC$002f0$002fUOR_ADLIB_ARC:110418236/ada?qu=bbc+romany&d=ent%3A%2F%2FUOR_ADLIB_ARC%2F0%2FUOR_ADLIB_ARC%3A110418236%7EADLIB_ARC%7E6&lm=MERL2"/>Scrapbook</a> (Museum of English Rural Life)

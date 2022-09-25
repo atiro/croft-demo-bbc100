@@ -1,0 +1,23 @@
+---
+title: "Owl Jug & Cover"
+subtitle: "1991"
+description: "Ozzy first came to the world’s attention on an episode of the BBC’s Antiques Roadshow in March 1990. He was acquired shortly afterwards by the museum to join the significant slipware collection and is one of the museum’s most iconic objects. Ozzy’s seller used the money from this sale to support five orphans from around the world."
+author: "Potteries Museum & Art Galleries"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Owl Jug & Cover
+### 1991
+Ozzy first came to the world’s attention on an episode of the BBC’s Antiques Roadshow in March 1990. He was acquired shortly afterwards by the museum to join the significant slipware collection and is one of the museum’s most iconic objects. Ozzy’s seller used the money from this sale to support five orphans from around the world.
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://www.stokemuseums.org.uk/pmag/museum-treasures-ozzy-owl/"/>Owl Jug & Cover</a> (Potteries Museum & Art Galleries)

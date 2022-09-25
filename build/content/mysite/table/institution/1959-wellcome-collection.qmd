@@ -1,0 +1,9 @@
+---
+author: "Wellcome Collection"
+year: "1959"
+title: "Papers"
+name: ""
+draft: false
+type: institution
+---
+I think this then appears as the content

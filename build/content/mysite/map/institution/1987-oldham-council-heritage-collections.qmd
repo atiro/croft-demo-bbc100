@@ -1,0 +1,10 @@
+---
+title: "2ZY to NBH. An informal history of the BBC in Manchester & the North West"
+lat: "53.5409"
+lon: "-2.1114"
+author: Oldham Council Heritage Collections"
+description: "An informal history of the BBC in Manchester & the North West"
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

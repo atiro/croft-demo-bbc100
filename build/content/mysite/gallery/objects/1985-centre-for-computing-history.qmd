@@ -1,0 +1,23 @@
+---
+title: "Video Game Console"
+subtitle: "1985"
+description: "The BBC Bridge Companion is an 8-bit video game console for teaching bridge. It was launched by BBC Enterprises Ltd in the United Kingdom in 1985. The system retailed for £199.99."
+author: "Centre for Computing History"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Video Game Console
+### 1985
+The BBC Bridge Companion is an 8-bit video game console for teaching bridge. It was launched by BBC Enterprises Ltd in the United Kingdom in 1985. The system retailed for £199.99.
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="http://www.computinghistory.org.uk/det/39774/BBC-Bridge-Companion/"/>Video Game Console</a> (Centre for Computing History)

@@ -1,0 +1,10 @@
+---
+title: "Fidelma Cook in the BBC News Gallery"
+lat: "55.8686"
+lon: "-4.2906"
+author: Glasgow Museums"
+description: "Pen and pencil drawing portrait of news reporter Fidelma Cook wearing pink suit and spectacles on her forehead, with BBC monitors in background and four other BBC staff. Handwritten note beside figures in painting 'Malcolm Cooper, producer, Fidelma Cook, BBC news reporter in the seat normally occupied by producer's assistant'."
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

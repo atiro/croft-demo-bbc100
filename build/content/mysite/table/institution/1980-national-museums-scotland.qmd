@@ -1,0 +1,9 @@
+---
+author: "National Museums Scotland"
+year: "1980"
+title: "Computer"
+name: ""
+draft: false
+type: institution
+---
+I think this then appears as the content

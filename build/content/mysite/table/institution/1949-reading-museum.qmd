@@ -1,0 +1,9 @@
+---
+author: "Reading Museum"
+year: "1949"
+title: "Photograph"
+name: "Workers' Playtime at Huntley and Palmers, Reading"
+draft: false
+type: institution
+---
+I think this then appears as the content

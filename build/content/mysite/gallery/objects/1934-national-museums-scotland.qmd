@@ -1,0 +1,21 @@
+---
+title: "Baird-system television kit"
+subtitle: "1934"
+description: "https://www.nms.ac.uk/explore-our-collections/collection-search-results/television-kit/381235"
+author: "National Museums Scotland"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Baird-system television kit
+### 1934
+https://www.nms.ac.uk/explore-our-collections/collection-search-results/television-kit/381235
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+

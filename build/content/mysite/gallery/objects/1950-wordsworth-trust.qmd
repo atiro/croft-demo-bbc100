@@ -1,0 +1,23 @@
+---
+title: "Book"
+subtitle: "1950"
+description: "The Grasmere fells a talk by W. Heaton Cooper broadcast by the BBC Home Service on Feb. 19th, 1950. printed Ambleside: Lakeland Printers, 1950"
+author: "Wordsworth Trust"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Book
+### 1950
+The Grasmere fells a talk by W. Heaton Cooper broadcast by the BBC Home Service on Feb. 19th, 1950. printed Ambleside: Lakeland Printers, 1950
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://collections.wordsworth.org.uk/wtweb/home.asp?page=FA%20item%20details&mwsquery=%20(%20(%20({Combined%20word%20search}%20=%20{bbc})%20)%20%20AND%20%20({Object%20class}=*{ms|map|printed%20book|fine%20art|object}))%20&id=3584"/>Book</a> (Wordsworth Trust)

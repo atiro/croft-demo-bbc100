@@ -1,0 +1,23 @@
+---
+title: "Painting"
+subtitle: "1977"
+description: "Pen and pencil drawing portrait of news reporter Fidelma Cook wearing pink suit and spectacles on her forehead, with BBC monitors in background and four other BBC staff. Handwritten note beside figures in painting 'Malcolm Cooper, producer, Fidelma Cook, BBC news reporter in the seat normally occupied by producer's assistant'."
+author: "Glasgow Museums"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Painting
+### 1977
+Pen and pencil drawing portrait of news reporter Fidelma Cook wearing pink suit and spectacles on her forehead, with BBC monitors in background and four other BBC staff. Handwritten note beside figures in painting 'Malcolm Cooper, producer, Fidelma Cook, BBC news reporter in the seat normally occupied by producer's assistant'.
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://artuk.org/discover/artworks/fidelma-cook-b-1953-in-the-bbc-news-gallery-84274"/>Painting</a> (Glasgow Museums)

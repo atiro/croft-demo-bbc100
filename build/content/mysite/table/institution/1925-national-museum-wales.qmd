@@ -1,0 +1,9 @@
+---
+author: "National Museum Wales"
+year: "1925"
+title: "Crystal set"
+name: ""
+draft: false
+type: institution
+---
+I think this then appears as the content

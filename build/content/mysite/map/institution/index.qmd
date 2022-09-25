@@ -1,0 +1,6 @@
+---
+title: "Map"
+listing:
+  template: map.ejs
+page-layout: full
+---

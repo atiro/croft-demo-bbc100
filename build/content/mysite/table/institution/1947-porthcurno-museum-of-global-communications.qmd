@@ -1,0 +1,9 @@
+---
+author: "Porthcurno Museum of Global Communications"
+year: "1947"
+title: "Photograph"
+name: "BBC televised operations from Electra House, London"
+draft: false
+type: institution
+---
+I think this then appears as the content

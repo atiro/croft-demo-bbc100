@@ -1,0 +1,10 @@
+---
+title: "The Kitchen Front"
+lat: "55.8686"
+lon: "-4.2906"
+author: Glasgow Museums"
+description: "A cookery book edited by P. J. Bruce.entitled ‘The Kitchen Front: 122 Wartime Recipes broadcast by Frederick Grisewood, Mabel Constanduros and others, specifically selected by the Ministry of Food’. This book contains recipes taken from the popular radio show ‘The Kitchen Front’ which was broadcast by the BBC from 1940. The programme gave housewives advice about how to make wholesome food during a period of food rationing."
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

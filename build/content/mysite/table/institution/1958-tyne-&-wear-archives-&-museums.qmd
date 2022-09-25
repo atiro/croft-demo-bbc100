@@ -1,0 +1,9 @@
+---
+author: "Tyne & Wear Archives & Museums"
+year: "1958"
+title: "Supplement"
+name: "BBC TELEVISION KEEP FIT WITH EILEEN FOWLER AND LOOK YOUR BEST FOR CHRISTMAS"
+draft: false
+type: institution
+---
+I think this then appears as the content

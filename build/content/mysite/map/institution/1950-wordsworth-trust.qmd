@@ -1,0 +1,10 @@
+---
+title: "The Grasmere fells a talk by W. Heaton Cooper broadcast by the BBC Home Service on Feb. 19th, 1950."
+lat: "54.4537"
+lon: "-3.0167"
+author: Wordsworth Trust"
+description: "The Grasmere fells a talk by W. Heaton Cooper broadcast by the BBC Home Service on Feb. 19th, 1950. printed Ambleside: Lakeland Printers, 1950"
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

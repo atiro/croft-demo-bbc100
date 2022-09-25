@@ -1,0 +1,23 @@
+---
+title: "Coin"
+subtitle: "1967"
+description: "The coin was likely defaced by supporters of the Free Radio Association (FRA) with headquarters at 239 Eastwood Road, Rayleigh, Essex. The FRA was formed in response to the Marine Offences Bill which would make illegal and bring to an end the broadcasting from ships offshore."
+author: "British Museum"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Coin
+### 1967
+The coin was likely defaced by supporters of the Free Radio Association (FRA) with headquarters at 239 Eastwood Road, Rayleigh, Essex. The FRA was formed in response to the Marine Offences Bill which would make illegal and bring to an end the broadcasting from ships offshore.
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://www.britishmuseum.org/collection/object/C_2014-4152-3"/>Coin</a> (British Museum)

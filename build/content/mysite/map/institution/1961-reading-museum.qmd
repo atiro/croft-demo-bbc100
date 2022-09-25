@@ -1,0 +1,10 @@
+---
+title: "BBC at Reading Museum"
+lat: "51.4570"
+lon: "-0.9699"
+author: Reading Museum"
+description: "A BBC camera crew filmed a talk on Romans given by John Wymer, Reading Museum's assistant archaeologist, to Southcote Primary School children at the Museum on Blagrave Street for a television series on Roman Britain called 'Signpost'. Samples of Roman pottery from the Silchester Collection were shown to illustrate the talk. Southcote School was chosen because it was on Silchester Road, and the school badge is a Roman eagle.The television programme aired on the 30 November 1961 at 11:35am.  This photograph was published in the Berkshire Chronicle on 17 November 1961."
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

@@ -1,0 +1,9 @@
+---
+author: "Wordsworth Trust"
+year: "1950"
+title: "Book"
+name: "The Grasmere fells a talk by W. Heaton Cooper broadcast by the BBC Home Service on Feb. 19th, 1950."
+draft: false
+type: institution
+---
+I think this then appears as the content

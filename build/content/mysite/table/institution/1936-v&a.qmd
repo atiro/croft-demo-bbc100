@@ -1,0 +1,9 @@
+---
+author: "V&A"
+year: "1936"
+title: "Chair"
+name: "Model RP6"
+draft: false
+type: institution
+---
+I think this then appears as the content

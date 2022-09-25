@@ -1,0 +1,23 @@
+---
+title: "Book"
+subtitle: "1948"
+description: "Sound and fury : twenty-one years in the B.B.C."
+author: "National Library of Scotland"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Book
+### 1948
+Sound and fury : twenty-one years in the B.B.C.
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://search.nls.uk/permalink/f/19q5vbt/44NLS_ALMA21431143500004341"/>Book</a> (National Library of Scotland)

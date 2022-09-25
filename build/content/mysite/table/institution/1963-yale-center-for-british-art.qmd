@@ -1,0 +1,9 @@
+---
+author: "Yale Center for British Art"
+year: "1963"
+title: "Photograph"
+name: "David Frost"
+draft: false
+type: institution
+---
+I think this then appears as the content

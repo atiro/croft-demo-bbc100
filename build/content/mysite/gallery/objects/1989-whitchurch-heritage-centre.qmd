@@ -1,0 +1,23 @@
+---
+title: "Notes"
+subtitle: "1989"
+description: "BBC Songs of Praise at St John's Church"
+author: "Whitchurch Heritage Centre"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Notes
+### 1989
+BBC Songs of Praise at St John's Church
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://www.whitchurch-heritage.co.uk/collections/getrecord/WHSHC_WHSHC_2015_0017_34"/>Notes</a> (Whitchurch Heritage Centre)

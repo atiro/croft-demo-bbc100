@@ -1,0 +1,23 @@
+---
+title: "Programme"
+subtitle: "1956"
+description: "Programme for the BBC's 'Light Programme' music festival of 1956. George Swift is listed as being one of just four soloists in the orchestra. The programme is a 16 page booklet which includes an illustration of a red brass instrument on the front cover, with the red and white text on a black background. The original price was one shilling and sixpence. The programme includes a photograph and brief biography of George Swift on page 13."
+author: "Tyne & Wear Archives & Museums"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Programme
+### 1956
+Programme for the BBC's 'Light Programme' music festival of 1956. George Swift is listed as being one of just four soloists in the orchestra. The programme is a 16 page booklet which includes an illustration of a red brass instrument on the front cover, with the red and white text on a black background. The original price was one shilling and sixpence. The programme includes a photograph and brief biography of George Swift on page 13.
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://collectionssearchtwmuseums.org.uk/#details=ecatalogue.349706"/>Programme</a> (Tyne & Wear Archives & Museums)

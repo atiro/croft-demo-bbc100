@@ -1,0 +1,9 @@
+---
+author: "National Museums NI"
+year: "1931"
+title: "Photograph"
+name: ""
+draft: false
+type: institution
+---
+I think this then appears as the content

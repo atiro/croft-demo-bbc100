@@ -1,0 +1,25 @@
+---
+title: "Railing"
+subtitle: "1774"
+description: "1 Foley Place (previously 69 Queen Anne Street East, and referred to by 1928 as Foley House) was designed by James Wyatt to be his own home and office, and was almost certainly a show place for his skills and taste. Its contents were of sufficient quality that the V&A was offered a selection as a gift when the house was about to be demolished. The demolition was in order for George Val Myer to build Broadcasting House for his client, the British Broadcasting Corporation (BBC)"
+image: "https://framemark.vam.ac.uk/collections/2006AL3236/full/300,/0/default.jpg"
+thumbnail: "https://framemark.vam.ac.uk/collections/2006AL3236/full/200,/0/default.jpg"
+author: "V&A"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Railing
+### 1774
+1 Foley Place (previously 69 Queen Anne Street East, and referred to by 1928 as Foley House) was designed by James Wyatt to be his own home and office, and was almost certainly a show place for his skills and taste. Its contents were of sufficient quality that the V&A was offered a selection as a gift when the house was about to be demolished. The demolition was in order for George Val Myer to build Broadcasting House for his client, the British Broadcasting Corporation (BBC)
+
+::: {.column-margin}
+<img src="https://framemark.vam.ac.uk/collections/2006AL3236/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://collections.vam.ac.uk/item/O78655/railing-wyatt-james/"/>Railing</a> (V&A)

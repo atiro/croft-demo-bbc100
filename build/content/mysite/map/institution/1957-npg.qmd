@@ -1,0 +1,10 @@
+---
+title: "Errol John"
+lat: "51.5094"
+lon: "-0.1281"
+author: NPG"
+description: "Errol John (1924-1988), Playwright and actor"
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

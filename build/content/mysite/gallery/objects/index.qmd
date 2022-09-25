@@ -1,0 +1,11 @@
+---
+title: "Objects by Year"
+listing:
+  filter-ui: true
+  type: grid
+  grid-columns: 4
+  page-size: 100
+  template: gallery.ejs
+  fields: [title,subtitle]
+  sort: "subtitle"
+---

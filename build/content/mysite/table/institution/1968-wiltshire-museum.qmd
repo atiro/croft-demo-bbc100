@@ -1,0 +1,9 @@
+---
+author: "Wiltshire Museum"
+year: "1968"
+title: "Photograph"
+name: ""
+draft: false
+type: institution
+---
+I think this then appears as the content

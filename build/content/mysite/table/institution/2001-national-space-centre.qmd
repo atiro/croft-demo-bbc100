@@ -1,0 +1,9 @@
+---
+author: "National Space Centre"
+year: "2001"
+title: "Toy"
+name: "Clanger"
+draft: false
+type: institution
+---
+I think this then appears as the content

@@ -1,0 +1,9 @@
+---
+author: "British Museum"
+year: "1967"
+title: "Coin"
+name: ""
+draft: false
+type: institution
+---
+I think this then appears as the content

@@ -1,0 +1,27 @@
+
+project:
+  type: website
+  resources:
+    - pwa.js
+    - sw.js
+    - webworker.js
+
+website:
+  title: 100 Years of Broadcasting Objects
+  navbar:
+    background: primary
+    left:
+
+      - text: Objects by Year
+        href: gallery/objects/index.qmd
+      - text: Objects by Institution
+        href: table/institution/index.qmd
+      - text: Objects by Map
+        href: map/institution/index.qmd
+format:
+  html:
+    theme: lux
+    css: 
+      - leaflet.css
+      - MarkerCluster.css
+      - MarkerCluster.Default.css

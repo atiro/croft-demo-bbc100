@@ -1,0 +1,23 @@
+---
+title: "Document"
+subtitle: "1932"
+description: "Copies of BBC Performance as Broadcast sheets containing detailed list of programmes August 22nd 1932 - September 2nd 1935, includes list of programmes broadcast as 'television transmission by the Baird process'"
+author: "Hastings Museum & Art Gallery"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Document
+### 1932
+Copies of BBC Performance as Broadcast sheets containing detailed list of programmes August 22nd 1932 - September 2nd 1935, includes list of programmes broadcast as 'television transmission by the Baird process'
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://www.hmag.org.uk/explore/collections/?si_elastic_detail=HASMG:2002.64.3"/>Document</a> (Hastings Museum & Art Gallery)

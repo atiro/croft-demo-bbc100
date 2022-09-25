@@ -1,0 +1,9 @@
+---
+author: "St Alban's Museum"
+year: "1960"
+title: "Leaflet"
+name: ""
+draft: false
+type: institution
+---
+I think this then appears as the content

@@ -1,0 +1,23 @@
+---
+title: "Pistol shot and musket balls"
+subtitle: "2018"
+description: "Seven round cast-lead shot of various sizes for muskets and pistols were found by gardeners and builders working on the grounds at Caversham Park over the years when it was occupied by the BBC from 1943 until 2018. They presumably date from the English Civil War of 1642 to 1651, which saw Parliamentarians (or 'Roundheads') pitted against Royalists ('Cavaliers') in a series of political manoeuvres and armed conflicts. Among the Parliamentarians' victories we can count the Siege of Reading of 1643, when the Roundheads besieged and took over a Royalist garrison in the town. There were several skirmishes around Caversham especially during the siege, as both sides fought to control Caversham Bridge and access to Reading. In July 1647 King Charles was imprisoned at Caversham Park for several weeks. "
+author: "Reading Museum"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Pistol shot and musket balls
+### 2018
+Seven round cast-lead shot of various sizes for muskets and pistols were found by gardeners and builders working on the grounds at Caversham Park over the years when it was occupied by the BBC from 1943 until 2018. They presumably date from the English Civil War of 1642 to 1651, which saw Parliamentarians (or 'Roundheads') pitted against Royalists ('Cavaliers') in a series of political manoeuvres and armed conflicts. Among the Parliamentarians' victories we can count the Siege of Reading of 1643, when the Roundheads besieged and took over a Royalist garrison in the town. There were several skirmishes around Caversham especially during the siege, as both sides fought to control Caversham Bridge and access to Reading. In July 1647 King Charles was imprisoned at Caversham Park for several weeks. 
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="http://collections.readingmuseum.org.uk/index.asp?page=record&mwsquery=({search}=*{bbc})&filename=REDMG&hitsStart=51"/>Pistol shot and musket balls</a> (Reading Museum)

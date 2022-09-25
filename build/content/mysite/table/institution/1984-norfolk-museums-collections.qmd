@@ -1,0 +1,9 @@
+---
+author: "Norfolk Museums Collections"
+year: "1984"
+title: "Banner"
+name: "Agricultural Union Banner"
+draft: false
+type: institution
+---
+I think this then appears as the content

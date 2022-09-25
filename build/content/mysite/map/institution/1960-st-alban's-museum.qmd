@@ -1,0 +1,10 @@
+---
+title: ""
+lat: "51.7522"
+lon: "-0.3389"
+author: St Alban's Museum"
+description: "Leaflet advertising the BBC childrens Television ' Sketch Club' exhibition at the City Museum, St Albans 1st August- 27th August 1960 July 1960 From Elsie Toms mayoral year diary vol 1 1960 "
+date: 2021-06-26T17:50:41+01:00
+draft: false
+type: institution
+---

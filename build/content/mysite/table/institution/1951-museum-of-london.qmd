@@ -1,0 +1,9 @@
+---
+author: "Museum of London"
+year: "1951"
+title: "Leaflet"
+name: "Six Recitals of English Song"
+draft: false
+type: institution
+---
+I think this then appears as the content

@@ -1,0 +1,23 @@
+---
+title: "Decanter & Glasses & Tray"
+subtitle: "1957"
+description: ""
+author: "Manchester Art Gallery"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Decanter & Glasses & Tray
+### 1957
+
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://manchesterartgallery.org/collections/title/?mag-object-33600"/>Decanter & Glasses & Tray</a> (Manchester Art Gallery)

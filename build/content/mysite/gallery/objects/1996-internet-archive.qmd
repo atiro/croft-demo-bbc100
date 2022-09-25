@@ -1,0 +1,23 @@
+---
+title: "Webpages"
+subtitle: "1996"
+description: ""
+author: "Internet Archive"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Webpages
+### 1996
+
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://web.archive.org/web/19961221203254/http://www.bbc.co.uk/"/>Webpages</a> (Internet Archive)

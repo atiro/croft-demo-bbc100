@@ -1,0 +1,23 @@
+---
+title: "Script"
+subtitle: "1954"
+description: "Copy of script for BBC broadcast on 'The Story of Rayon' with notes and comments, shown on 25/02/1954"
+author: "Richmond Museum"
+draft: false
+title-block-banner: false
+format:
+    html:
+        template-partials:
+         - title-block.html
+---
+## Script
+### 1954
+Copy of script for BBC broadcast on 'The Story of Rayon' with notes and comments, shown on 25/02/1954
+
+::: {.column-margin}
+<img src="/full/400,/0/default.jpg">
+
+:::
+
+## Collection Website
+<a href="https://ehive.com/collections/6274/objects/635949/the-story-of-rayon-script"/>Script</a> (Richmond Museum)
