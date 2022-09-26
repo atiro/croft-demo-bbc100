@@ -9,10 +9,6 @@ jobs:
       matrix:
         python-version: ["3.7", "3.8", "3.9", "3.10"]
 
-    defaults:
-      run:
-        working-directory: build
-
     steps:
       - uses: actions/checkout@v3
       - name: Set up Python ${{ matrix.python-version }}
@@ -41,6 +37,6 @@ jobs:
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
-          path: ./pages/content/mysite
+          path: /home/runner/work/croft-demo-bbc100/croft-demo-bbc100/pages/content/mysite
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # this secret is always available for github actions
