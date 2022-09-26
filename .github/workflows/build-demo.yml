@@ -30,6 +30,9 @@ jobs:
       - name: List files
         run: ls -l
 
+      - name: Working dir
+        run: pwd
+
       - name: Run quarto to build static site from source data
         uses: quarto-dev/quarto-actions/publish@v2
         with:
