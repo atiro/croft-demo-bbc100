@@ -28,7 +28,7 @@ jobs:
         run: crofter
 
       - name: List files
-        run: ls -l
+        run: ls -l /home/runner/work/croft-demo-bbc100/croft-demo-bbc100/pages/content/mysite
 
       - name: Working dir
         run: pwd
