@@ -27,6 +27,9 @@ jobs:
       - name: Run crofter to build site source from CSV data & config
         run: crofter
 
+      - name: List files
+        run: ls -l
+
       - name: Run quarto to build static site from source data
         uses: quarto-dev/quarto-actions/publish@v2
         with:
