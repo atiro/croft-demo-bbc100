@@ -16,6 +16,9 @@ jobs:
         with:
           python-version: ${{ matrix.python-version }}
 
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
       - name: Install deps
         run: |
           python -m pip install --upgrade pip
@@ -24,5 +27,9 @@ jobs:
       - name: Run crofter to build site source from CSV data & config
         run: crofter
 
-      - name: Run hugo to build static site from source data
-        run: hugo build
+      - name: Run quarto to build static site from source data
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # this secret is always available for github actions
