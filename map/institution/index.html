@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.1.251">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>100 Years of Broadcasting Objects - Map</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-lat','listing-lon','listing-author','listing-description','listing-date','listing-draft','listing-type','listing-path','listing-filename','listing-file-modified','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] }],
+      page: 25,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-title","listing-lat","listing-lon","listing-author","listing-description","listing-date","listing-draft","listing-type","listing-path","listing-filename","listing-file-modified","listing-reading-time"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="leaflet.css">
+<link rel="stylesheet" href="MarkerCluster.css">
+<link rel="stylesheet" href="MarkerCluster.Default.css">
+</head>
+
+<body class="nav-fixed">
+
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">100 Years of Broadcasting Objects</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../gallery/objects/index.html">Objects by Year</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../table/institution/index.html">Objects by Institution</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../../map/institution/index.html" aria-current="page">Objects by Map</a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content column-page" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Map</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+    
+  </div>
+  
+
+</header>
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-custom" id="listing-listing">
+<script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==" crossorigin=""></script>
+<script src="leaflet.markercluster.js"></script>
+<div id="map" style="width: 90%; height: 800px;"></div>
+<script>
+    var map = L.map('map').setView([53.8167, -3.0370], 6);
+    var tiles = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+        maxZoom: 18,
+        attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, ' +
+            'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>'
+,
+        id: 'mapbox/streets-v11',
+        tileSize: 512,
+        zoomOffset: -1
+    }).addTo(map);
+        var markers = L.markerClusterGroup();
+    markers.addLayer(L.marker([51.4972, -0.1767]).bindPopup(''National' laserdisc, used as part of the BBC Domesday system'));
+    markers.addLayer(L.marker([53.5409, -2.1114]).bindPopup('2ZY to NBH. An informal history of the BBC in Manchester & the North West'));
+    markers.addLayer(L.marker([51.4958, -0.1087]).bindPopup('A BBC Radio Broadcast from Normandy'));
+    markers.addLayer(L.marker([51.5094, -0.1281]).bindPopup('Adelaide Hall'));
+    markers.addLayer(L.marker([52.7148, 0.9212]).bindPopup('Agricultural Union Banner'));
+    markers.addLayer(L.marker([51.4958, -0.1087]).bindPopup('Air Battle: Two Hurricanes Versus Two Messerschmitts'));
+    markers.addLayer(L.marker([51.4958, -0.1087]).bindPopup('An Underground Room in the BBC Building'));
+    markers.addLayer(L.marker([51.4966, -0.1722]).bindPopup('An approach to art : a pictorial guide to twelve broadcast talks and discussions on the artist and his public'));
+    markers.addLayer(L.marker([52.4801, -1.9035]).bindPopup('Autumn'));
+    markers.addLayer(L.marker([52.2079, 0.1490]).bindPopup('BBC Bridge Companion'));
+    markers.addLayer(L.marker([51.5259, -0.1339]).bindPopup('BBC Broadcast: `It's Happening Now: The Pioneer Health Centre, Peckham: Howard Marshall and others''));
+    markers.addLayer(L.marker([52.2079, 0.1490]).bindPopup('BBC Buggy'));
+    markers.addLayer(L.marker([51.4966, -0.1722]).bindPopup('BBC Handbook'));
+    markers.addLayer(L.marker([51.4972, -0.1767]).bindPopup('BBC Printing Stamp'));
+    markers.addLayer(L.marker([51.5300, -0.1277]).bindPopup('BBC Proms Guide 2014'));
+    markers.addLayer(L.marker([57.1480, -2.1026]).bindPopup('BBC Radio Circle Membership Card'));
+    markers.addLayer(L.marker([57.1480, -2.1026]).bindPopup('BBC Radio from 23 November 1978'));
+    markers.addLayer(L.marker([52.9699, -2.6833]).bindPopup('BBC Songs of Praise at St John's Church 1989'));
+    markers.addLayer(L.marker([54.9691, -1.6248]).bindPopup('BBC TELEVISION KEEP FIT WITH EILEEN FOWLER AND LOOK YOUR BEST FOR CHRISTMAS'));
+    markers.addLayer(L.marker([37.7749, -122.4194]).bindPopup('BBC Website'));
+    markers.addLayer(L.marker([51.4570, -0.9699]).bindPopup('BBC at Reading Museum'));
+    markers.addLayer(L.marker([51.5121, -0.1212]).bindPopup('BBC exhibition at Charing Cross Underground station, by Topical Press, 1938'));
+    markers.addLayer(L.marker([52.4146, -4.0685]).bindPopup('BBC pronunciation policy and practice'));
+    markers.addLayer(L.marker([50.0468, -5.6549]).bindPopup('BBC televised operations from Electra House, London'));
+    markers.addLayer(L.marker([51.4491, -0.9597]).bindPopup('Black and white photograph of Angela Rippon with Phil Drabble, filming with BBC 2 at the Game Fair'));
+    markers.addLayer(L.marker([51.4966, -0.1722]).bindPopup('Cartoon commenting on the D'Oyly Carte's redressed production of The Mikado, 1926'));
+    markers.addLayer(L.marker([51.5259, -0.1339]).bindPopup('Causes of War'));
+    markers.addLayer(L.marker([56.0588, -3.2339]).bindPopup('Ceefax'));
+    markers.addLayer(L.marker([52.6537, -1.1316]).bindPopup('Clanger'));
+    markers.addLayer(L.marker([51.5176, -0.0968]).bindPopup('Construction workers erecting a TV mast at Crystal Palace'));
+    markers.addLayer(L.marker([41.3079, -72.9305]).bindPopup('David Frost'));
+    markers.addLayer(L.marker([52.2002, 0.1195]).bindPopup('Design for The 3rd Programme BBC'));
+    markers.addLayer(L.marker([51.4966, -0.1722]).bindPopup('Die Fledermaus'));
+    markers.addLayer(L.marker([55.8686, -4.2906]).bindPopup('Edison Bell Crystal Set - B type reg.615'));
+    markers.addLayer(L.marker([51.5094, -0.1281]).bindPopup('Errol John'));
+    markers.addLayer(L.marker([55.8686, -4.2906]).bindPopup('Fidelma Cook in the BBC News Gallery'));
+    markers.addLayer(L.marker([52.1983, 0.1264]).bindPopup('Gettin' Sentimental / By the Sycamore Tree'));
+    markers.addLayer(L.marker([55.9470, -3.1909]).bindPopup('Mervy Sound and Vision Company'));
+    markers.addLayer(L.marker([51.5094, -0.1399]).bindPopup('Mnemosyne'));
+    markers.addLayer(L.marker([51.4966, -0.1722]).bindPopup('Model RP6'));
+    markers.addLayer(L.marker([51.4966, -0.1722]).bindPopup('New BBC Building'));
+    markers.addLayer(L.marker([52.3848, -2.2455]).bindPopup('Oral History interview - Roger McGough at Brintons (Radio 4 Broadcast)'));
+    markers.addLayer(L.marker([53.0231, -2.1779]).bindPopup('Ozzy'));
+    markers.addLayer(L.marker([53.4035, -2.9956]).bindPopup('Peaky Blinder's cap worn by Cillian Murphy'));
+    markers.addLayer(L.marker([50.8563, 0.5711]).bindPopup('Performance as Broadcast sheets'));
+    markers.addLayer(L.marker([51.5076, -0.0994]).bindPopup('Royal Ascot'));
+    markers.addLayer(L.marker([51.4491, -0.9597]).bindPopup('Scrapbook of cuttings compiled by Romany Watt, (formerly Bain), daughter of G. Bramwell Evens'));
+    markers.addLayer(L.marker([51.5176, -0.0968]).bindPopup('Six Recitals of English Song'));
+    markers.addLayer(L.marker([55.9486, -3.1920]).bindPopup('Sound and fury : twenty-one years in the B.B.C'));
+    markers.addLayer(L.marker([51.4966, -0.1722]).bindPopup('Tabard worn by Ian McKellen as Richard II'));
+    markers.addLayer(L.marker([51.4966, -0.1722]).bindPopup('Tales of Toytown'));
+    markers.addLayer(L.marker([51.7541, -1.2540]).bindPopup('Technical glossary for B.B.C. engineers'));
+    markers.addLayer(L.marker([54.4537, -3.0167]).bindPopup('The Grasmere fells a talk by W. Heaton Cooper broadcast by the BBC Home Service on Feb. 19th, 1950.'));
+    markers.addLayer(L.marker([55.8686, -4.2906]).bindPopup('The Kitchen Front'));
+    markers.addLayer(L.marker([54.9691, -1.6248]).bindPopup('The Light Programme Music Festival 1956'));
+    markers.addLayer(L.marker([53.9620, -1.0895]).bindPopup('The Mayor Of Casterbridge'));
+    markers.addLayer(L.marker([51.4589, -0.3065]).bindPopup('The Story of Rayon'));
+    markers.addLayer(L.marker([51.5176, -0.0968]).bindPopup('Upper Regent Street looking towards All Soul's Church'));
+    markers.addLayer(L.marker([51.5300, -0.1277]).bindPopup('Wakefield BBC Micro User Group. (December, 1984)'));
+    markers.addLayer(L.marker([55.8730, -4.2890]).bindPopup('Whistler's mother'));
+    markers.addLayer(L.marker([51.5176, -0.0968]).bindPopup('Wireless Telephony Broadcasting card'));
+    markers.addLayer(L.marker([51.4570, -0.9699]).bindPopup('Workers' Playtime at Huntley and Palmers, Reading'));
+    markers.addLayer(L.marker([54.5821, -5.9358]).bindPopup('undefined'));
+    markers.addLayer(L.marker([51.3498, -1.9935]).bindPopup('undefined'));
+    markers.addLayer(L.marker([51.4769, 0.0005]).bindPopup('undefined'));
+    markers.addLayer(L.marker([51.4966, -0.1722]).bindPopup('undefined'));
+    markers.addLayer(L.marker([51.4811, -0.2794]).bindPopup('undefined'));
+    markers.addLayer(L.marker([51.4966, -0.1722]).bindPopup('undefined'));
+    markers.addLayer(L.marker([54.9691, -1.6248]).bindPopup('undefined'));
+    markers.addLayer(L.marker([54.5821, -5.9358]).bindPopup('undefined'));
+    markers.addLayer(L.marker([51.5259, -0.1339]).bindPopup('undefined'));
+    markers.addLayer(L.marker([51.3498, -1.9935]).bindPopup('undefined'));
+    markers.addLayer(L.marker([51.4570, -0.9699]).bindPopup('undefined'));
+    markers.addLayer(L.marker([51.4811, -0.2794]).bindPopup('undefined'));
+    markers.addLayer(L.marker([53.4789, -2.2415]).bindPopup('undefined'));
+    markers.addLayer(L.marker([55.9470, -3.1909]).bindPopup('undefined'));
+    markers.addLayer(L.marker([51.4966, -0.1722]).bindPopup('undefined'));
+    markers.addLayer(L.marker([51.4857, -3.1768]).bindPopup('undefined'));
+    markers.addLayer(L.marker([51.7522, -0.3389]).bindPopup('undefined'));
+    markers.addLayer(L.marker([52.2028, 0.1194]).bindPopup('undefined'));
+    markers.addLayer(L.marker([51.5194, -0.1270]).bindPopup('undefined'));
+      map.addLayer(markers);
+</script>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+<nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
+</div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    setTimeout(function() {
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

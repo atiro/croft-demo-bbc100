@@ -1,0 +1,1 @@
+Sitemap: https://github.com/atiro/croft-demo-bbc100/sitemap.xml
