@@ -1,4 +1,4 @@
-croft==0.5.3
+croft==0.5.4
 requests==2.28.1
 pathvalidate==2.5.0
 sqlite_utils==3.28
