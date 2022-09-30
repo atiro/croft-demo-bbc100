@@ -71,11 +71,20 @@
       "slug": "institution",
       "primary": true,
       "output_list": [
-	      ["Author", "Actor::Name", "Institution"],
-	      ["Year", "Thing::Year", "Year"],
-	      ["Title", "Thing::Name", "Object"],
-	      ["Name", "Thing::Title", "Title"]
+	      ["Author", "Actor::Name", "Institution", true],
+	      ["Year", "Thing::Year", "Year", true],
+	      ["Title", "Thing::Name", "Object", true],
+	      ["Name", "Thing::Title", "Title", true]
       ],
+      "output_map": {
+	      "Title": "Thing::Name",
+	      "Subtitle": "Thing::Year",
+	      "Description": "Thing::Description",
+	      "URL": "Thing::URL",
+	      "Image": "Thing::Image",
+	      "Thumbnail": "Thing::Image",
+	      "Author": "Actor::Name"
+      },
       "options": {
 	      "sort": ["Author", "Year"]
       }
